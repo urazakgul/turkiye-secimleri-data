@@ -1,0 +1,6815 @@
+{
+  "Data": [
+    {
+      "İl": "Adana",
+      "İlçe": "ALADAĞ",
+      "Erdoğan": 64.2,
+      "Kılıçdaroğlu": 35.8,
+      "Katılım": 89.9
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "CEYHAN",
+      "Erdoğan": 47.4,
+      "Kılıçdaroğlu": 52.6,
+      "Katılım": 84.7
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "ÇUKUROVA",
+      "Erdoğan": 33.2,
+      "Kılıçdaroğlu": 66.8,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "FEKE",
+      "Erdoğan": 68.9,
+      "Kılıçdaroğlu": 31.1,
+      "Katılım": 84.5
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "İMAMOĞLU",
+      "Erdoğan": 67.5,
+      "Kılıçdaroğlu": 32.5,
+      "Katılım": 87.5
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "KARAİSALI",
+      "Erdoğan": 74.1,
+      "Kılıçdaroğlu": 25.9,
+      "Katılım": 90.4
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "KARATAŞ",
+      "Erdoğan": 37.9,
+      "Kılıçdaroğlu": 62.1,
+      "Katılım": 88
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "KOZAN",
+      "Erdoğan": 63.6,
+      "Kılıçdaroğlu": 36.4,
+      "Katılım": 84.6
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "POZANTI",
+      "Erdoğan": 62,
+      "Kılıçdaroğlu": 38,
+      "Katılım": 86.5
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "SAİMBEYLİ",
+      "Erdoğan": 77.8,
+      "Kılıçdaroğlu": 22.2,
+      "Katılım": 81.5
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "SARIÇAM",
+      "Erdoğan": 59.8,
+      "Kılıçdaroğlu": 40.2,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "SEYHAN",
+      "Erdoğan": 39.4,
+      "Kılıçdaroğlu": 60.6,
+      "Katılım": 83.8
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "TUFANBEYLİ",
+      "Erdoğan": 64.4,
+      "Kılıçdaroğlu": 35.6,
+      "Katılım": 86.3
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "YUMURTALIK",
+      "Erdoğan": 54.3,
+      "Kılıçdaroğlu": 45.7,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Adana",
+      "İlçe": "YÜREĞİR",
+      "Erdoğan": 50.5,
+      "Kılıçdaroğlu": 49.5,
+      "Katılım": 81.9
+    },
+    {
+      "İl": "Adıyaman",
+      "İlçe": "BESNİ",
+      "Erdoğan": 65.2,
+      "Kılıçdaroğlu": 34.8,
+      "Katılım": 77.2
+    },
+    {
+      "İl": "Adıyaman",
+      "İlçe": "ÇELİKHAN",
+      "Erdoğan": 63.5,
+      "Kılıçdaroğlu": 36.5,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Adıyaman",
+      "İlçe": "GERGER",
+      "Erdoğan": 87.1,
+      "Kılıçdaroğlu": 12.9,
+      "Katılım": 76.2
+    },
+    {
+      "İl": "Adıyaman",
+      "İlçe": "GÖLBAŞI",
+      "Erdoğan": 62.6,
+      "Kılıçdaroğlu": 37.4,
+      "Katılım": 79.7
+    },
+    {
+      "İl": "Adıyaman",
+      "İlçe": "KAHTA",
+      "Erdoğan": 81.4,
+      "Kılıçdaroğlu": 18.6,
+      "Katılım": 83.3
+    },
+    {
+      "İl": "Adıyaman",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 62,
+      "Kılıçdaroğlu": 38,
+      "Katılım": 77.8
+    },
+    {
+      "İl": "Adıyaman",
+      "İlçe": "SAMSAT",
+      "Erdoğan": 90.1,
+      "Kılıçdaroğlu": 9.9,
+      "Katılım": 95.6
+    },
+    {
+      "İl": "Adıyaman",
+      "İlçe": "SİNCİK",
+      "Erdoğan": 94.6,
+      "Kılıçdaroğlu": 5.4,
+      "Katılım": 90.8
+    },
+    {
+      "İl": "Adıyaman",
+      "İlçe": "TUT",
+      "Erdoğan": 67.6,
+      "Kılıçdaroğlu": 32.4,
+      "Katılım": 83.8
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "BAŞMAKÇI",
+      "Erdoğan": 61.4,
+      "Kılıçdaroğlu": 38.6,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "BAYAT",
+      "Erdoğan": 68.4,
+      "Kılıçdaroğlu": 31.6,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "BOLVADİN",
+      "Erdoğan": 75.4,
+      "Kılıçdaroğlu": 24.6,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "ÇAY",
+      "Erdoğan": 61.7,
+      "Kılıçdaroğlu": 38.3,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "ÇOBANLAR",
+      "Erdoğan": 69.4,
+      "Kılıçdaroğlu": 30.6,
+      "Katılım": 90.5
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "DAZKIRI",
+      "Erdoğan": 62.7,
+      "Kılıçdaroğlu": 37.3,
+      "Katılım": 90.4
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "DİNAR",
+      "Erdoğan": 59.8,
+      "Kılıçdaroğlu": 40.2,
+      "Katılım": 85
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "EMİRDAĞ",
+      "Erdoğan": 62.8,
+      "Kılıçdaroğlu": 37.2,
+      "Katılım": 68.2
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "EVCİLER",
+      "Erdoğan": 60,
+      "Kılıçdaroğlu": 40,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "HOCALAR",
+      "Erdoğan": 79.3,
+      "Kılıçdaroğlu": 20.7,
+      "Katılım": 86
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "İHSANİYE",
+      "Erdoğan": 80.6,
+      "Kılıçdaroğlu": 19.4,
+      "Katılım": 91.4
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "İSCEHİSAR",
+      "Erdoğan": 79.5,
+      "Kılıçdaroğlu": 20.5,
+      "Katılım": 91.8
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "KIZILÖREN",
+      "Erdoğan": 61.8,
+      "Kılıçdaroğlu": 38.2,
+      "Katılım": 84.6
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 67,
+      "Kılıçdaroğlu": 33,
+      "Katılım": 89.9
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "SANDIKLI",
+      "Erdoğan": 70.5,
+      "Kılıçdaroğlu": 29.5,
+      "Katılım": 85.1
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "SİNANPAŞA",
+      "Erdoğan": 75.3,
+      "Kılıçdaroğlu": 24.7,
+      "Katılım": 88.1
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "ŞUHUT",
+      "Erdoğan": 71.7,
+      "Kılıçdaroğlu": 28.3,
+      "Katılım": 90.1
+    },
+    {
+      "İl": "Afyonkarahisar",
+      "İlçe": "SULTANDAĞI",
+      "Erdoğan": 36.1,
+      "Kılıçdaroğlu": 63.9,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Ağrı",
+      "İlçe": "DİYADİN",
+      "Erdoğan": 25.7,
+      "Kılıçdaroğlu": 74.3,
+      "Katılım": 60.3
+    },
+    {
+      "İl": "Ağrı",
+      "İlçe": "DOĞUBAYAZIT",
+      "Erdoğan": 17.8,
+      "Kılıçdaroğlu": 82.2,
+      "Katılım": 67.6
+    },
+    {
+      "İl": "Ağrı",
+      "İlçe": "ELEŞKİRT",
+      "Erdoğan": 62.5,
+      "Kılıçdaroğlu": 37.5,
+      "Katılım": 65.4
+    },
+    {
+      "İl": "Ağrı",
+      "İlçe": "HAMUR",
+      "Erdoğan": 42.4,
+      "Kılıçdaroğlu": 57.6,
+      "Katılım": 63
+    },
+    {
+      "İl": "Ağrı",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 46.4,
+      "Kılıçdaroğlu": 53.6,
+      "Katılım": 70.3
+    },
+    {
+      "İl": "Ağrı",
+      "İlçe": "PATNOS",
+      "Erdoğan": 27.6,
+      "Kılıçdaroğlu": 72.4,
+      "Katılım": 59.4
+    },
+    {
+      "İl": "Ağrı",
+      "İlçe": "TAŞLIÇAY",
+      "Erdoğan": 31.2,
+      "Kılıçdaroğlu": 68.8,
+      "Katılım": 68.3
+    },
+    {
+      "İl": "Ağrı",
+      "İlçe": "TUTAK",
+      "Erdoğan": 41.7,
+      "Kılıçdaroğlu": 58.3,
+      "Katılım": 66.8
+    },
+    {
+      "İl": "Aksaray",
+      "İlçe": "AĞAÇÖREN",
+      "Erdoğan": 82.2,
+      "Kılıçdaroğlu": 17.8,
+      "Katılım": 82.4
+    },
+    {
+      "İl": "Aksaray",
+      "İlçe": "ESKİL",
+      "Erdoğan": 80.4,
+      "Kılıçdaroğlu": 19.6,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Aksaray",
+      "İlçe": "GÜLAĞAÇ",
+      "Erdoğan": 70.5,
+      "Kılıçdaroğlu": 29.5,
+      "Katılım": 79
+    },
+    {
+      "İl": "Aksaray",
+      "İlçe": "GÜZELYURT",
+      "Erdoğan": 76.3,
+      "Kılıçdaroğlu": 23.7,
+      "Katılım": 85
+    },
+    {
+      "İl": "Aksaray",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 74.9,
+      "Kılıçdaroğlu": 25.1,
+      "Katılım": 84.4
+    },
+    {
+      "İl": "Aksaray",
+      "İlçe": "ORTAKÖY",
+      "Erdoğan": 78.3,
+      "Kılıçdaroğlu": 21.7,
+      "Katılım": 81.9
+    },
+    {
+      "İl": "Aksaray",
+      "İlçe": "SARIYAHŞİ",
+      "Erdoğan": 72.1,
+      "Kılıçdaroğlu": 27.9,
+      "Katılım": 70.3
+    },
+    {
+      "İl": "Aksaray",
+      "İlçe": "SULTANHANI",
+      "Erdoğan": 72.2,
+      "Kılıçdaroğlu": 27.8,
+      "Katılım": 89.4
+    },
+    {
+      "İl": "Amasya",
+      "İlçe": "GÖYNÜCEK",
+      "Erdoğan": 68.3,
+      "Kılıçdaroğlu": 31.7,
+      "Katılım": 91.1
+    },
+    {
+      "İl": "Amasya",
+      "İlçe": "GÜMÜŞHACIKÖY",
+      "Erdoğan": 43.6,
+      "Kılıçdaroğlu": 56.4,
+      "Katılım": 92.3
+    },
+    {
+      "İl": "Amasya",
+      "İlçe": "HAMAMÖZÜ",
+      "Erdoğan": 67.9,
+      "Kılıçdaroğlu": 32.1,
+      "Katılım": 90.3
+    },
+    {
+      "İl": "Amasya",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 58.1,
+      "Kılıçdaroğlu": 41.9,
+      "Katılım": 90
+    },
+    {
+      "İl": "Amasya",
+      "İlçe": "MERZİFON",
+      "Erdoğan": 51.8,
+      "Kılıçdaroğlu": 48.2,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "Amasya",
+      "İlçe": "SULUOVA",
+      "Erdoğan": 74.4,
+      "Kılıçdaroğlu": 25.6,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Amasya",
+      "İlçe": "TAŞOVA",
+      "Erdoğan": 66.8,
+      "Kılıçdaroğlu": 33.2,
+      "Katılım": 88.1
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "AKYURT",
+      "Erdoğan": 76.3,
+      "Kılıçdaroğlu": 23.7,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "ALTINDAĞ",
+      "Erdoğan": 63.2,
+      "Kılıçdaroğlu": 36.8,
+      "Katılım": 86.3
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "AYAŞ",
+      "Erdoğan": 58.9,
+      "Kılıçdaroğlu": 41.1,
+      "Katılım": 90.9
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "BALA",
+      "Erdoğan": 65.4,
+      "Kılıçdaroğlu": 34.6,
+      "Katılım": 79.2
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "BEYPAZARI",
+      "Erdoğan": 60.9,
+      "Kılıçdaroğlu": 39.1,
+      "Katılım": 87
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "ÇAMLIDERE",
+      "Erdoğan": 80.5,
+      "Kılıçdaroğlu": 19.5,
+      "Katılım": 87
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "ÇANKAYA",
+      "Erdoğan": 21.8,
+      "Kılıçdaroğlu": 78.2,
+      "Katılım": 89.8
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "ÇUBUK",
+      "Erdoğan": 75.2,
+      "Kılıçdaroğlu": 24.8,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "ELMADAĞ",
+      "Erdoğan": 50.9,
+      "Kılıçdaroğlu": 49.1,
+      "Katılım": 89.8
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "ETİMESGUT",
+      "Erdoğan": 43.3,
+      "Kılıçdaroğlu": 56.7,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "EVREN",
+      "Erdoğan": 65.8,
+      "Kılıçdaroğlu": 34.2,
+      "Katılım": 80.5
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "GÖLBAŞI",
+      "Erdoğan": 50.5,
+      "Kılıçdaroğlu": 49.5,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "GÜDÜL",
+      "Erdoğan": 68.6,
+      "Kılıçdaroğlu": 31.4,
+      "Katılım": 86.5
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "HAYMANA",
+      "Erdoğan": 66.6,
+      "Kılıçdaroğlu": 33.4,
+      "Katılım": 78.7
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "KAHRAMANKAZAN",
+      "Erdoğan": 67.3,
+      "Kılıçdaroğlu": 32.7,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "KALECİK",
+      "Erdoğan": 68.3,
+      "Kılıçdaroğlu": 31.7,
+      "Katılım": 89.1
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "KEÇİÖREN",
+      "Erdoğan": 55.7,
+      "Kılıçdaroğlu": 44.3,
+      "Katılım": 86.9
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "KIZILCAHAMAM",
+      "Erdoğan": 71.1,
+      "Kılıçdaroğlu": 28.9,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "MAMAK",
+      "Erdoğan": 49.8,
+      "Kılıçdaroğlu": 50.2,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "NALLIHAN",
+      "Erdoğan": 58.3,
+      "Kılıçdaroğlu": 41.7,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "POLATLI",
+      "Erdoğan": 55.3,
+      "Kılıçdaroğlu": 44.7,
+      "Katılım": 83.6
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "PURSAKLAR",
+      "Erdoğan": 73.9,
+      "Kılıçdaroğlu": 26.1,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "ŞEREFLİKOÇHİSAR",
+      "Erdoğan": 59.2,
+      "Kılıçdaroğlu": 40.8,
+      "Katılım": 80.4
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "SİNCAN",
+      "Erdoğan": 65,
+      "Kılıçdaroğlu": 35,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "Ankara",
+      "İlçe": "YENİMAHALLE",
+      "Erdoğan": 41.9,
+      "Kılıçdaroğlu": 58.1,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "AKSEKİ",
+      "Erdoğan": 59,
+      "Kılıçdaroğlu": 41,
+      "Katılım": 83.9
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "AKSU",
+      "Erdoğan": 48.8,
+      "Kılıçdaroğlu": 51.2,
+      "Katılım": 85.6
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "ALANYA",
+      "Erdoğan": 47.3,
+      "Kılıçdaroğlu": 52.7,
+      "Katılım": 83.6
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "DEMRE",
+      "Erdoğan": 50.6,
+      "Kılıçdaroğlu": 49.4,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "DÖŞEMEALTI",
+      "Erdoğan": 47.6,
+      "Kılıçdaroğlu": 52.4,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "ELMALI",
+      "Erdoğan": 53.8,
+      "Kılıçdaroğlu": 46.2,
+      "Katılım": 89.4
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "FİNİKE",
+      "Erdoğan": 50,
+      "Kılıçdaroğlu": 50,
+      "Katılım": 86.2
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "GAZİPAŞA",
+      "Erdoğan": 43.9,
+      "Kılıçdaroğlu": 56.1,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "GÜNDOĞMUŞ",
+      "Erdoğan": 56.5,
+      "Kılıçdaroğlu": 43.5,
+      "Katılım": 85.1
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "İBRADI",
+      "Erdoğan": 49.4,
+      "Kılıçdaroğlu": 50.6,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "KAŞ",
+      "Erdoğan": 45.2,
+      "Kılıçdaroğlu": 54.8,
+      "Katılım": 87.5
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "KEMER",
+      "Erdoğan": 43.2,
+      "Kılıçdaroğlu": 56.8,
+      "Katılım": 84.8
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "KEPEZ",
+      "Erdoğan": 45.7,
+      "Kılıçdaroğlu": 54.3,
+      "Katılım": 85.3
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "KONYAALTI",
+      "Erdoğan": 27.2,
+      "Kılıçdaroğlu": 72.8,
+      "Katılım": 86.3
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "KORKUTELİ",
+      "Erdoğan": 57,
+      "Kılıçdaroğlu": 43,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "KUMLUCA",
+      "Erdoğan": 52.7,
+      "Kılıçdaroğlu": 47.3,
+      "Katılım": 88.8
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "MANAVGAT",
+      "Erdoğan": 46.9,
+      "Kılıçdaroğlu": 53.1,
+      "Katılım": 85.3
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "MURATPAŞA",
+      "Erdoğan": 31,
+      "Kılıçdaroğlu": 69,
+      "Katılım": 85.5
+    },
+    {
+      "İl": "Antalya",
+      "İlçe": "SERİK",
+      "Erdoğan": 44.3,
+      "Kılıçdaroğlu": 55.7,
+      "Katılım": 85.2
+    },
+    {
+      "İl": "Ardahan",
+      "İlçe": "ÇILDIR",
+      "Erdoğan": 52.1,
+      "Kılıçdaroğlu": 47.9,
+      "Katılım": 77.7
+    },
+    {
+      "İl": "Ardahan",
+      "İlçe": "DAMAL",
+      "Erdoğan": 5.1,
+      "Kılıçdaroğlu": 94.9,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Ardahan",
+      "İlçe": "GÖLE",
+      "Erdoğan": 47.4,
+      "Kılıçdaroğlu": 52.6,
+      "Katılım": 74.4
+    },
+    {
+      "İl": "Ardahan",
+      "İlçe": "HANAK",
+      "Erdoğan": 33.4,
+      "Kılıçdaroğlu": 66.6,
+      "Katılım": 84.6
+    },
+    {
+      "İl": "Ardahan",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 40.5,
+      "Kılıçdaroğlu": 59.5,
+      "Katılım": 79.4
+    },
+    {
+      "İl": "Ardahan",
+      "İlçe": "POSOF",
+      "Erdoğan": 66.2,
+      "Kılıçdaroğlu": 33.8,
+      "Katılım": 83.7
+    },
+    {
+      "İl": "Artvin",
+      "İlçe": "ARDANUÇ",
+      "Erdoğan": 39.5,
+      "Kılıçdaroğlu": 60.5,
+      "Katılım": 86.1
+    },
+    {
+      "İl": "Artvin",
+      "İlçe": "ARHAVİ",
+      "Erdoğan": 55,
+      "Kılıçdaroğlu": 45,
+      "Katılım": 86.8
+    },
+    {
+      "İl": "Artvin",
+      "İlçe": "BORÇKA",
+      "Erdoğan": 64.2,
+      "Kılıçdaroğlu": 35.8,
+      "Katılım": 87.2
+    },
+    {
+      "İl": "Artvin",
+      "İlçe": "HOPA",
+      "Erdoğan": 38,
+      "Kılıçdaroğlu": 62,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Artvin",
+      "İlçe": "KEMALPAŞA",
+      "Erdoğan": 31.1,
+      "Kılıçdaroğlu": 68.9,
+      "Katılım": 89.9
+    },
+    {
+      "İl": "Artvin",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 48,
+      "Kılıçdaroğlu": 52,
+      "Katılım": 89
+    },
+    {
+      "İl": "Artvin",
+      "İlçe": "MURGUL",
+      "Erdoğan": 50.7,
+      "Kılıçdaroğlu": 49.3,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Artvin",
+      "İlçe": "ŞAVŞAT",
+      "Erdoğan": 44.8,
+      "Kılıçdaroğlu": 55.2,
+      "Katılım": 85.2
+    },
+    {
+      "İl": "Artvin",
+      "İlçe": "YUSUFELİ",
+      "Erdoğan": 74.8,
+      "Kılıçdaroğlu": 25.2,
+      "Katılım": 82.7
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "BOZDOĞAN",
+      "Erdoğan": 50.9,
+      "Kılıçdaroğlu": 49.1,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "BUHARKENT",
+      "Erdoğan": 45.8,
+      "Kılıçdaroğlu": 54.2,
+      "Katılım": 88.4
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "ÇİNE",
+      "Erdoğan": 46.7,
+      "Kılıçdaroğlu": 53.3,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "DİDİM",
+      "Erdoğan": 27.1,
+      "Kılıçdaroğlu": 72.9,
+      "Katılım": 82.8
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "EFELER",
+      "Erdoğan": 38.5,
+      "Kılıçdaroğlu": 61.5,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "GERMENCİK",
+      "Erdoğan": 41.1,
+      "Kılıçdaroğlu": 58.9,
+      "Katılım": 88.4
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "İNCİRLİOVA",
+      "Erdoğan": 49,
+      "Kılıçdaroğlu": 51,
+      "Katılım": 86.8
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "KARACASU",
+      "Erdoğan": 48.3,
+      "Kılıçdaroğlu": 51.7,
+      "Katılım": 87.1
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "KARPUZLU",
+      "Erdoğan": 62.4,
+      "Kılıçdaroğlu": 37.6,
+      "Katılım": 88.4
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "KOÇARLI",
+      "Erdoğan": 56.8,
+      "Kılıçdaroğlu": 43.2,
+      "Katılım": 91
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "KÖŞK",
+      "Erdoğan": 65,
+      "Kılıçdaroğlu": 35,
+      "Katılım": 89.7
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "KUŞADASI",
+      "Erdoğan": 27.4,
+      "Kılıçdaroğlu": 72.6,
+      "Katılım": 83.4
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "KUYUCAK",
+      "Erdoğan": 47.8,
+      "Kılıçdaroğlu": 52.2,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "NAZİLLİ",
+      "Erdoğan": 43.5,
+      "Kılıçdaroğlu": 56.5,
+      "Katılım": 86.2
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "SÖKE",
+      "Erdoğan": 36.4,
+      "Kılıçdaroğlu": 63.6,
+      "Katılım": 86.3
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "SULTANHİSAR",
+      "Erdoğan": 44.9,
+      "Kılıçdaroğlu": 55.1,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Aydın",
+      "İlçe": "YENİPAZAR",
+      "Erdoğan": 52.2,
+      "Kılıçdaroğlu": 47.8,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "ALTIEYLÜL",
+      "Erdoğan": 52.6,
+      "Kılıçdaroğlu": 47.4,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "AYVALIK",
+      "Erdoğan": 27.8,
+      "Kılıçdaroğlu": 72.2,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "BALYA",
+      "Erdoğan": 52.2,
+      "Kılıçdaroğlu": 47.8,
+      "Katılım": 91.4
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "BANDIRMA",
+      "Erdoğan": 39.4,
+      "Kılıçdaroğlu": 60.6,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "BİGADİÇ",
+      "Erdoğan": 61.2,
+      "Kılıçdaroğlu": 38.8,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "BURHANİYE",
+      "Erdoğan": 37.5,
+      "Kılıçdaroğlu": 62.5,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "DURSUNBEY",
+      "Erdoğan": 80.8,
+      "Kılıçdaroğlu": 19.2,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "EDREMİT",
+      "Erdoğan": 35.2,
+      "Kılıçdaroğlu": 64.8,
+      "Katılım": 85.6
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "ERDEK",
+      "Erdoğan": 34.5,
+      "Kılıçdaroğlu": 65.5,
+      "Katılım": 86.3
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "GÖMEÇ",
+      "Erdoğan": 36,
+      "Kılıçdaroğlu": 64,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "GÖNEN",
+      "Erdoğan": 51.7,
+      "Kılıçdaroğlu": 48.3,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "HAVRAN",
+      "Erdoğan": 66.4,
+      "Kılıçdaroğlu": 33.6,
+      "Katılım": 90.6
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "İVRİNDİ",
+      "Erdoğan": 66.3,
+      "Kılıçdaroğlu": 33.7,
+      "Katılım": 92
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "KARESİ",
+      "Erdoğan": 53,
+      "Kılıçdaroğlu": 47,
+      "Katılım": 89.4
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "KEPSUT",
+      "Erdoğan": 72.3,
+      "Kılıçdaroğlu": 27.7,
+      "Katılım": 94.1
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "MANYAS",
+      "Erdoğan": 46,
+      "Kılıçdaroğlu": 54,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "MARMARA",
+      "Erdoğan": 44.5,
+      "Kılıçdaroğlu": 55.5,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "SAVAŞTEPE",
+      "Erdoğan": 61,
+      "Kılıçdaroğlu": 39,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "SINDIRGI",
+      "Erdoğan": 57.6,
+      "Kılıçdaroğlu": 42.4,
+      "Katılım": 90.1
+    },
+    {
+      "İl": "Balıkesir",
+      "İlçe": "SUSURLUK",
+      "Erdoğan": 48.7,
+      "Kılıçdaroğlu": 51.3,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Bartın",
+      "İlçe": "AMASRA",
+      "Erdoğan": 49.2,
+      "Kılıçdaroğlu": 50.8,
+      "Katılım": 84.4
+    },
+    {
+      "İl": "Bartın",
+      "İlçe": "KURUCAŞİLE",
+      "Erdoğan": 56.9,
+      "Kılıçdaroğlu": 43.1,
+      "Katılım": 83.6
+    },
+    {
+      "İl": "Bartın",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 59.3,
+      "Kılıçdaroğlu": 40.7,
+      "Katılım": 85.1
+    },
+    {
+      "İl": "Bartın",
+      "İlçe": "ULUS",
+      "Erdoğan": 71.9,
+      "Kılıçdaroğlu": 28.1,
+      "Katılım": 86.3
+    },
+    {
+      "İl": "Batman",
+      "İlçe": "BEŞİRİ",
+      "Erdoğan": 36.1,
+      "Kılıçdaroğlu": 63.9,
+      "Katılım": 82.8
+    },
+    {
+      "İl": "Batman",
+      "İlçe": "GERCÜŞ",
+      "Erdoğan": 53.9,
+      "Kılıçdaroğlu": 46.1,
+      "Katılım": 76.7
+    },
+    {
+      "İl": "Batman",
+      "İlçe": "HASANKEYF",
+      "Erdoğan": 50.1,
+      "Kılıçdaroğlu": 49.9,
+      "Katılım": 79.2
+    },
+    {
+      "İl": "Batman",
+      "İlçe": "KOZLUK",
+      "Erdoğan": 36.7,
+      "Kılıçdaroğlu": 63.3,
+      "Katılım": 79.9
+    },
+    {
+      "İl": "Batman",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 28.2,
+      "Kılıçdaroğlu": 71.8,
+      "Katılım": 80.7
+    },
+    {
+      "İl": "Batman",
+      "İlçe": "SASON",
+      "Erdoğan": 62,
+      "Kılıçdaroğlu": 38,
+      "Katılım": 75.1
+    },
+    {
+      "İl": "Bayburt",
+      "İlçe": "AYDINTEPE",
+      "Erdoğan": 81.1,
+      "Kılıçdaroğlu": 18.9,
+      "Katılım": 84.5
+    },
+    {
+      "İl": "Bayburt",
+      "İlçe": "DEMİRÖZÜ",
+      "Erdoğan": 88.7,
+      "Kılıçdaroğlu": 11.3,
+      "Katılım": 91
+    },
+    {
+      "İl": "Bayburt",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 81.8,
+      "Kılıçdaroğlu": 18.2,
+      "Katılım": 85.1
+    },
+    {
+      "İl": "Bilecik",
+      "İlçe": "BOZÜYÜK",
+      "Erdoğan": 49.8,
+      "Kılıçdaroğlu": 50.2,
+      "Katılım": 89.6
+    },
+    {
+      "İl": "Bilecik",
+      "İlçe": "GÖLPAZARI",
+      "Erdoğan": 58.3,
+      "Kılıçdaroğlu": 41.7,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "Bilecik",
+      "İlçe": "İNHİSAR",
+      "Erdoğan": 60.4,
+      "Kılıçdaroğlu": 39.6,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Bilecik",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 51.9,
+      "Kılıçdaroğlu": 48.1,
+      "Katılım": 88.4
+    },
+    {
+      "İl": "Bilecik",
+      "İlçe": "OSMANELİ",
+      "Erdoğan": 58.6,
+      "Kılıçdaroğlu": 41.4,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Bilecik",
+      "İlçe": "PAZARYERİ",
+      "Erdoğan": 61.6,
+      "Kılıçdaroğlu": 38.4,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Bilecik",
+      "İlçe": "SÖĞÜT",
+      "Erdoğan": 59.7,
+      "Kılıçdaroğlu": 40.3,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "Bilecik",
+      "İlçe": "YENİPAZAR",
+      "Erdoğan": 65.1,
+      "Kılıçdaroğlu": 34.9,
+      "Katılım": 89.6
+    },
+    {
+      "İl": "Bingöl",
+      "İlçe": "ADAKLI",
+      "Erdoğan": 64.2,
+      "Kılıçdaroğlu": 35.8,
+      "Katılım": 78.5
+    },
+    {
+      "İl": "Bingöl",
+      "İlçe": "GENÇ",
+      "Erdoğan": 82.2,
+      "Kılıçdaroğlu": 17.8,
+      "Katılım": 74.8
+    },
+    {
+      "İl": "Bingöl",
+      "İlçe": "KARLIOVA",
+      "Erdoğan": 45.7,
+      "Kılıçdaroğlu": 54.3,
+      "Katılım": 66.3
+    },
+    {
+      "İl": "Bingöl",
+      "İlçe": "KİĞI",
+      "Erdoğan": 40.6,
+      "Kılıçdaroğlu": 59.4,
+      "Katılım": 78.6
+    },
+    {
+      "İl": "Bingöl",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 68.1,
+      "Kılıçdaroğlu": 31.9,
+      "Katılım": 75.2
+    },
+    {
+      "İl": "Bingöl",
+      "İlçe": "SOLHAN",
+      "Erdoğan": 81.3,
+      "Kılıçdaroğlu": 18.7,
+      "Katılım": 74.7
+    },
+    {
+      "İl": "Bingöl",
+      "İlçe": "YAYLADERE",
+      "Erdoğan": 30.8,
+      "Kılıçdaroğlu": 69.2,
+      "Katılım": 77.6
+    },
+    {
+      "İl": "Bingöl",
+      "İlçe": "YEDİSU",
+      "Erdoğan": 30.8,
+      "Kılıçdaroğlu": 69.2,
+      "Katılım": 90.2
+    },
+    {
+      "İl": "Bitlis",
+      "İlçe": "ADİLCEVAZ",
+      "Erdoğan": 47.8,
+      "Kılıçdaroğlu": 52.2,
+      "Katılım": 68.5
+    },
+    {
+      "İl": "Bitlis",
+      "İlçe": "AHLAT",
+      "Erdoğan": 47.1,
+      "Kılıçdaroğlu": 52.9,
+      "Katılım": 77.9
+    },
+    {
+      "İl": "Bitlis",
+      "İlçe": "GÜROYMAK",
+      "Erdoğan": 44.4,
+      "Kılıçdaroğlu": 55.6,
+      "Katılım": 73
+    },
+    {
+      "İl": "Bitlis",
+      "İlçe": "HİZAN",
+      "Erdoğan": 56.7,
+      "Kılıçdaroğlu": 43.3,
+      "Katılım": 75
+    },
+    {
+      "İl": "Bitlis",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 51.6,
+      "Kılıçdaroğlu": 48.4,
+      "Katılım": 78.9
+    },
+    {
+      "İl": "Bitlis",
+      "İlçe": "MUTKİ",
+      "Erdoğan": 79.4,
+      "Kılıçdaroğlu": 20.6,
+      "Katılım": 76.7
+    },
+    {
+      "İl": "Bitlis",
+      "İlçe": "TATVAN",
+      "Erdoğan": 42.3,
+      "Kılıçdaroğlu": 57.7,
+      "Katılım": 78.6
+    },
+    {
+      "İl": "Bolu",
+      "İlçe": "DÖRTDİVAN",
+      "Erdoğan": 90.2,
+      "Kılıçdaroğlu": 9.8,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Bolu",
+      "İlçe": "GEREDE",
+      "Erdoğan": 87.9,
+      "Kılıçdaroğlu": 12.1,
+      "Katılım": 92
+    },
+    {
+      "İl": "Bolu",
+      "İlçe": "GÖYNÜK",
+      "Erdoğan": 80.3,
+      "Kılıçdaroğlu": 19.7,
+      "Katılım": 89.1
+    },
+    {
+      "İl": "Bolu",
+      "İlçe": "KIBRISCIK",
+      "Erdoğan": 50.8,
+      "Kılıçdaroğlu": 49.2,
+      "Katılım": 86.4
+    },
+    {
+      "İl": "Bolu",
+      "İlçe": "MENGEN",
+      "Erdoğan": 61.4,
+      "Kılıçdaroğlu": 38.6,
+      "Katılım": 83.4
+    },
+    {
+      "İl": "Bolu",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 57.9,
+      "Kılıçdaroğlu": 42.1,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Bolu",
+      "İlçe": "MUDURNU",
+      "Erdoğan": 68.1,
+      "Kılıçdaroğlu": 31.9,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "Bolu",
+      "İlçe": "SEBEN",
+      "Erdoğan": 62.7,
+      "Kılıçdaroğlu": 37.3,
+      "Katılım": 86.2
+    },
+    {
+      "İl": "Bolu",
+      "İlçe": "YENİÇAĞA",
+      "Erdoğan": 83.4,
+      "Kılıçdaroğlu": 16.6,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Burdur",
+      "İlçe": "AĞLASUN",
+      "Erdoğan": 70.9,
+      "Kılıçdaroğlu": 29.1,
+      "Katılım": 90.1
+    },
+    {
+      "İl": "Burdur",
+      "İlçe": "ALTINYAYLA",
+      "Erdoğan": 75.8,
+      "Kılıçdaroğlu": 24.2,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Burdur",
+      "İlçe": "BUCAK",
+      "Erdoğan": 62.6,
+      "Kılıçdaroğlu": 37.4,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Burdur",
+      "İlçe": "ÇAVDIR",
+      "Erdoğan": 58.6,
+      "Kılıçdaroğlu": 41.4,
+      "Katılım": 83.6
+    },
+    {
+      "İl": "Burdur",
+      "İlçe": "ÇELTİKÇİ",
+      "Erdoğan": 67.4,
+      "Kılıçdaroğlu": 32.6,
+      "Katılım": 89.7
+    },
+    {
+      "İl": "Burdur",
+      "İlçe": "GÖLHİSAR",
+      "Erdoğan": 67.2,
+      "Kılıçdaroğlu": 32.8,
+      "Katılım": 85.6
+    },
+    {
+      "İl": "Burdur",
+      "İlçe": "KARAMANLI",
+      "Erdoğan": 47.1,
+      "Kılıçdaroğlu": 52.9,
+      "Katılım": 87.4
+    },
+    {
+      "İl": "Burdur",
+      "İlçe": "KEMER",
+      "Erdoğan": 69.8,
+      "Kılıçdaroğlu": 30.2,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "Burdur",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 48.4,
+      "Kılıçdaroğlu": 51.6,
+      "Katılım": 88
+    },
+    {
+      "İl": "Burdur",
+      "İlçe": "TEFENNİ",
+      "Erdoğan": 53.2,
+      "Kılıçdaroğlu": 46.8,
+      "Katılım": 84.7
+    },
+    {
+      "İl": "Burdur",
+      "İlçe": "YEŞİLOVA",
+      "Erdoğan": 44.7,
+      "Kılıçdaroğlu": 55.3,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "BÜYÜKORHAN",
+      "Erdoğan": 80.8,
+      "Kılıçdaroğlu": 19.2,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "GEMLİK",
+      "Erdoğan": 49.3,
+      "Kılıçdaroğlu": 50.7,
+      "Katılım": 86.4
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "GÜRSU",
+      "Erdoğan": 69.4,
+      "Kılıçdaroğlu": 30.6,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "HARMANCIK",
+      "Erdoğan": 70.5,
+      "Kılıçdaroğlu": 29.5,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "İNEGÖL",
+      "Erdoğan": 69.1,
+      "Kılıçdaroğlu": 30.9,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "İZNİK",
+      "Erdoğan": 54.7,
+      "Kılıçdaroğlu": 45.3,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "KARACABEY",
+      "Erdoğan": 50.6,
+      "Kılıçdaroğlu": 49.4,
+      "Katılım": 86.8
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "KELES",
+      "Erdoğan": 73.5,
+      "Kılıçdaroğlu": 26.5,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "KESTEL",
+      "Erdoğan": 58.8,
+      "Kılıçdaroğlu": 41.2,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "MUDANYA",
+      "Erdoğan": 39.6,
+      "Kılıçdaroğlu": 60.4,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "MUSTAFAKEMALPAŞA",
+      "Erdoğan": 54.6,
+      "Kılıçdaroğlu": 45.4,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "NİLÜFER",
+      "Erdoğan": 38.2,
+      "Kılıçdaroğlu": 61.8,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "ORHANELİ",
+      "Erdoğan": 69.2,
+      "Kılıçdaroğlu": 30.8,
+      "Katılım": 91.4
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "ORHANGAZİ",
+      "Erdoğan": 53,
+      "Kılıçdaroğlu": 47,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "OSMANGAZİ",
+      "Erdoğan": 56.1,
+      "Kılıçdaroğlu": 43.9,
+      "Katılım": 86.8
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "YENİŞEHİR",
+      "Erdoğan": 55.8,
+      "Kılıçdaroğlu": 44.2,
+      "Katılım": 89
+    },
+    {
+      "İl": "Bursa",
+      "İlçe": "YILDIRIM",
+      "Erdoğan": 60.4,
+      "Kılıçdaroğlu": 39.6,
+      "Katılım": 86.2
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "AYVACIK",
+      "Erdoğan": 44.2,
+      "Kılıçdaroğlu": 55.8,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "BAYRAMİÇ",
+      "Erdoğan": 43.7,
+      "Kılıçdaroğlu": 56.3,
+      "Katılım": 91.4
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "BİGA",
+      "Erdoğan": 54.2,
+      "Kılıçdaroğlu": 45.8,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "BOZCAADA",
+      "Erdoğan": 23.7,
+      "Kılıçdaroğlu": 76.3,
+      "Katılım": 85.2
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "ÇAN",
+      "Erdoğan": 51.7,
+      "Kılıçdaroğlu": 48.3,
+      "Katılım": 91.6
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "ECEABAT",
+      "Erdoğan": 25.7,
+      "Kılıçdaroğlu": 74.3,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "EZİNE",
+      "Erdoğan": 44.2,
+      "Kılıçdaroğlu": 55.8,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "GELİBOLU",
+      "Erdoğan": 35.3,
+      "Kılıçdaroğlu": 64.7,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "GÖKÇEADA",
+      "Erdoğan": 39.5,
+      "Kılıçdaroğlu": 60.5,
+      "Katılım": 81.3
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "LAPSEKİ",
+      "Erdoğan": 52.8,
+      "Kılıçdaroğlu": 47.2,
+      "Katılım": 89.9
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 29.2,
+      "Kılıçdaroğlu": 70.8,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Çanakkale",
+      "İlçe": "YENİCE",
+      "Erdoğan": 62.9,
+      "Kılıçdaroğlu": 37.1,
+      "Katılım": 91.2
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "ATKARACALAR",
+      "Erdoğan": 81.1,
+      "Kılıçdaroğlu": 18.9,
+      "Katılım": 84.8
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "BAYRAMÖREN",
+      "Erdoğan": 85.7,
+      "Kılıçdaroğlu": 14.3,
+      "Katılım": 84.2
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "ÇERKEŞ",
+      "Erdoğan": 71.6,
+      "Kılıçdaroğlu": 28.4,
+      "Katılım": 84.2
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "ELDİVAN",
+      "Erdoğan": 76.8,
+      "Kılıçdaroğlu": 23.2,
+      "Katılım": 85.9
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "ILGAZ",
+      "Erdoğan": 79.1,
+      "Kılıçdaroğlu": 20.9,
+      "Katılım": 84.8
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "KIZILIRMAK",
+      "Erdoğan": 86,
+      "Kılıçdaroğlu": 14,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "KORGUN",
+      "Erdoğan": 87.1,
+      "Kılıçdaroğlu": 12.9,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "KURŞUNLU",
+      "Erdoğan": 78.6,
+      "Kılıçdaroğlu": 21.4,
+      "Katılım": 87.2
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 72.6,
+      "Kılıçdaroğlu": 27.4,
+      "Katılım": 86.5
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "ORTA",
+      "Erdoğan": 90.9,
+      "Kılıçdaroğlu": 9.1,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "ŞABANÖZÜ",
+      "Erdoğan": 71.1,
+      "Kılıçdaroğlu": 28.9,
+      "Katılım": 89.7
+    },
+    {
+      "İl": "Çankırı",
+      "İlçe": "YAPRAKLI",
+      "Erdoğan": 90.3,
+      "Kılıçdaroğlu": 9.7,
+      "Katılım": 85
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "ALACA",
+      "Erdoğan": 70.6,
+      "Kılıçdaroğlu": 29.4,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "BAYAT",
+      "Erdoğan": 80.4,
+      "Kılıçdaroğlu": 19.6,
+      "Katılım": 86.2
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "BOĞAZKALE",
+      "Erdoğan": 81.5,
+      "Kılıçdaroğlu": 18.5,
+      "Katılım": 88.4
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "DODURGA",
+      "Erdoğan": 60.2,
+      "Kılıçdaroğlu": 39.8,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "İSKİLİP",
+      "Erdoğan": 80,
+      "Kılıçdaroğlu": 20,
+      "Katılım": 86.1
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "KARGI",
+      "Erdoğan": 74.1,
+      "Kılıçdaroğlu": 25.9,
+      "Katılım": 86.2
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "LAÇİN",
+      "Erdoğan": 72.8,
+      "Kılıçdaroğlu": 27.2,
+      "Katılım": 90
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "MECİTÖZÜ",
+      "Erdoğan": 57.8,
+      "Kılıçdaroğlu": 42.2,
+      "Katılım": 91.1
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 58.6,
+      "Kılıçdaroğlu": 41.4,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "OĞUZLAR",
+      "Erdoğan": 70.7,
+      "Kılıçdaroğlu": 29.3,
+      "Katılım": 92
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "ORTAKÖY",
+      "Erdoğan": 57.8,
+      "Kılıçdaroğlu": 42.2,
+      "Katılım": 88.8
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "OSMANCIK",
+      "Erdoğan": 70.9,
+      "Kılıçdaroğlu": 29.1,
+      "Katılım": 88
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "SUNGURLU",
+      "Erdoğan": 73,
+      "Kılıçdaroğlu": 27,
+      "Katılım": 88
+    },
+    {
+      "İl": "Çorum",
+      "İlçe": "UĞURLUDAĞ",
+      "Erdoğan": 83,
+      "Kılıçdaroğlu": 17,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "ACIPAYAM",
+      "Erdoğan": 57.6,
+      "Kılıçdaroğlu": 42.4,
+      "Katılım": 88
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "BABADAĞ",
+      "Erdoğan": 55,
+      "Kılıçdaroğlu": 45,
+      "Katılım": 88.8
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "BAKLAN",
+      "Erdoğan": 52,
+      "Kılıçdaroğlu": 48,
+      "Katılım": 91
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "BEKİLLİ",
+      "Erdoğan": 40.1,
+      "Kılıçdaroğlu": 59.9,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "BEYAĞAÇ",
+      "Erdoğan": 56,
+      "Kılıçdaroğlu": 44,
+      "Katılım": 90
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "BOZKURT",
+      "Erdoğan": 45.5,
+      "Kılıçdaroğlu": 54.5,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "BULDAN",
+      "Erdoğan": 46.7,
+      "Kılıçdaroğlu": 53.3,
+      "Katılım": 87.4
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "ÇAL",
+      "Erdoğan": 43.9,
+      "Kılıçdaroğlu": 56.1,
+      "Katılım": 89.6
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "ÇAMELİ",
+      "Erdoğan": 71.1,
+      "Kılıçdaroğlu": 28.9,
+      "Katılım": 86.3
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "ÇARDAK",
+      "Erdoğan": 46.1,
+      "Kılıçdaroğlu": 53.9,
+      "Katılım": 89
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "ÇİVRİL",
+      "Erdoğan": 50.5,
+      "Kılıçdaroğlu": 49.5,
+      "Katılım": 86
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "GÜNEY",
+      "Erdoğan": 46.4,
+      "Kılıçdaroğlu": 53.6,
+      "Katılım": 90.2
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "HONAZ",
+      "Erdoğan": 47,
+      "Kılıçdaroğlu": 53,
+      "Katılım": 91.3
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "KALE",
+      "Erdoğan": 62.4,
+      "Kılıçdaroğlu": 37.6,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "MERKEZEFENDİ",
+      "Erdoğan": 42.4,
+      "Kılıçdaroğlu": 57.6,
+      "Katılım": 89.4
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "PAMUKKALE",
+      "Erdoğan": 46.3,
+      "Kılıçdaroğlu": 53.7,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "SARAYKÖY",
+      "Erdoğan": 36.2,
+      "Kılıçdaroğlu": 63.8,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "SERİNHİSAR",
+      "Erdoğan": 54.4,
+      "Kılıçdaroğlu": 45.6,
+      "Katılım": 91.9
+    },
+    {
+      "İl": "Denizli",
+      "İlçe": "TAVAS",
+      "Erdoğan": 56.8,
+      "Kılıçdaroğlu": 43.2,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "BAĞLAR",
+      "Erdoğan": 24.1,
+      "Kılıçdaroğlu": 75.9,
+      "Katılım": 75.1
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "BİSMİL",
+      "Erdoğan": 21.7,
+      "Kılıçdaroğlu": 78.3,
+      "Katılım": 81.3
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "ÇERMİK",
+      "Erdoğan": 62.8,
+      "Kılıçdaroğlu": 37.2,
+      "Katılım": 71
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "ÇINAR",
+      "Erdoğan": 36.9,
+      "Kılıçdaroğlu": 63.1,
+      "Katılım": 74.5
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "ÇÜNGÜŞ",
+      "Erdoğan": 62.1,
+      "Kılıçdaroğlu": 37.9,
+      "Katılım": 73.4
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "DİCLE",
+      "Erdoğan": 35.7,
+      "Kılıçdaroğlu": 64.3,
+      "Katılım": 66.4
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "EĞİL",
+      "Erdoğan": 42.2,
+      "Kılıçdaroğlu": 57.8,
+      "Katılım": 67.1
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "ERGANİ",
+      "Erdoğan": 32.9,
+      "Kılıçdaroğlu": 67.1,
+      "Katılım": 73.4
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "HANİ",
+      "Erdoğan": 52.9,
+      "Kılıçdaroğlu": 47.1,
+      "Katılım": 62.4
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "HAZRO",
+      "Erdoğan": 24.8,
+      "Kılıçdaroğlu": 75.2,
+      "Katılım": 70.5
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "KAYAPINAR",
+      "Erdoğan": 25.3,
+      "Kılıçdaroğlu": 74.7,
+      "Katılım": 79.6
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "KOCAKÖY",
+      "Erdoğan": 18.1,
+      "Kılıçdaroğlu": 81.9,
+      "Katılım": 79.4
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "KULP",
+      "Erdoğan": 42.6,
+      "Kılıçdaroğlu": 57.4,
+      "Katılım": 72
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "LİCE",
+      "Erdoğan": 14.6,
+      "Kılıçdaroğlu": 85.4,
+      "Katılım": 79.2
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "SİLVAN",
+      "Erdoğan": 21.4,
+      "Kılıçdaroğlu": 78.6,
+      "Katılım": 78.5
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "SUR",
+      "Erdoğan": 31.1,
+      "Kılıçdaroğlu": 68.9,
+      "Katılım": 74.7
+    },
+    {
+      "İl": "Diyarbakır",
+      "İlçe": "YENİŞEHİR",
+      "Erdoğan": 28.7,
+      "Kılıçdaroğlu": 71.3,
+      "Katılım": 76.4
+    },
+    {
+      "İl": "Düzce",
+      "İlçe": "AKÇAKOCA",
+      "Erdoğan": 62.1,
+      "Kılıçdaroğlu": 37.9,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "Düzce",
+      "İlçe": "ÇİLİMLİ",
+      "Erdoğan": 82.2,
+      "Kılıçdaroğlu": 17.8,
+      "Katılım": 93.3
+    },
+    {
+      "İl": "Düzce",
+      "İlçe": "CUMAYERİ",
+      "Erdoğan": 80.6,
+      "Kılıçdaroğlu": 19.4,
+      "Katılım": 91.1
+    },
+    {
+      "İl": "Düzce",
+      "İlçe": "GÖLYAKA",
+      "Erdoğan": 72.6,
+      "Kılıçdaroğlu": 27.4,
+      "Katılım": 92.1
+    },
+    {
+      "İl": "Düzce",
+      "İlçe": "GÜMÜŞOVA",
+      "Erdoğan": 75.3,
+      "Kılıçdaroğlu": 24.7,
+      "Katılım": 90.6
+    },
+    {
+      "İl": "Düzce",
+      "İlçe": "KAYNAŞLI",
+      "Erdoğan": 81.3,
+      "Kılıçdaroğlu": 18.7,
+      "Katılım": 88.8
+    },
+    {
+      "İl": "Düzce",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 70.3,
+      "Kılıçdaroğlu": 29.7,
+      "Katılım": 89.4
+    },
+    {
+      "İl": "Düzce",
+      "İlçe": "YIĞILCA",
+      "Erdoğan": 86.3,
+      "Kılıçdaroğlu": 13.7,
+      "Katılım": 89.8
+    },
+    {
+      "İl": "Edirne",
+      "İlçe": "ENEZ",
+      "Erdoğan": 26.3,
+      "Kılıçdaroğlu": 73.7,
+      "Katılım": 88.1
+    },
+    {
+      "İl": "Edirne",
+      "İlçe": "HAVSA",
+      "Erdoğan": 31.7,
+      "Kılıçdaroğlu": 68.3,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "Edirne",
+      "İlçe": "İPSALA",
+      "Erdoğan": 39.8,
+      "Kılıçdaroğlu": 60.2,
+      "Katılım": 88.1
+    },
+    {
+      "İl": "Edirne",
+      "İlçe": "KEŞAN",
+      "Erdoğan": 35.6,
+      "Kılıçdaroğlu": 64.4,
+      "Katılım": 88.1
+    },
+    {
+      "İl": "Edirne",
+      "İlçe": "LALAPAŞA",
+      "Erdoğan": 47.2,
+      "Kılıçdaroğlu": 52.8,
+      "Katılım": 89.8
+    },
+    {
+      "İl": "Edirne",
+      "İlçe": "MERİÇ",
+      "Erdoğan": 41.6,
+      "Kılıçdaroğlu": 58.4,
+      "Katılım": 86.5
+    },
+    {
+      "İl": "Edirne",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 30.2,
+      "Kılıçdaroğlu": 69.8,
+      "Katılım": 87
+    },
+    {
+      "İl": "Edirne",
+      "İlçe": "SÜLOĞLU",
+      "Erdoğan": 41.8,
+      "Kılıçdaroğlu": 58.2,
+      "Katılım": 87.1
+    },
+    {
+      "İl": "Edirne",
+      "İlçe": "UZUNKÖPRÜ",
+      "Erdoğan": 32.3,
+      "Kılıçdaroğlu": 67.7,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Elazığ",
+      "İlçe": "AĞIN",
+      "Erdoğan": 62.2,
+      "Kılıçdaroğlu": 37.8,
+      "Katılım": 84.7
+    },
+    {
+      "İl": "Elazığ",
+      "İlçe": "ALACAKAYA",
+      "Erdoğan": 76.2,
+      "Kılıçdaroğlu": 23.8,
+      "Katılım": 81.2
+    },
+    {
+      "İl": "Elazığ",
+      "İlçe": "ARICAK",
+      "Erdoğan": 76.9,
+      "Kılıçdaroğlu": 23.1,
+      "Katılım": 73.8
+    },
+    {
+      "İl": "Elazığ",
+      "İlçe": "BASKİL",
+      "Erdoğan": 83.8,
+      "Kılıçdaroğlu": 16.2,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "Elazığ",
+      "İlçe": "KARAKOÇAN",
+      "Erdoğan": 49.4,
+      "Kılıçdaroğlu": 50.6,
+      "Katılım": 74.3
+    },
+    {
+      "İl": "Elazığ",
+      "İlçe": "KEBAN",
+      "Erdoğan": 73.2,
+      "Kılıçdaroğlu": 26.8,
+      "Katılım": 89.4
+    },
+    {
+      "İl": "Elazığ",
+      "İlçe": "KOVANCILAR",
+      "Erdoğan": 81.1,
+      "Kılıçdaroğlu": 18.9,
+      "Katılım": 77.6
+    },
+    {
+      "İl": "Elazığ",
+      "İlçe": "MADEN",
+      "Erdoğan": 66.8,
+      "Kılıçdaroğlu": 33.2,
+      "Katılım": 80.4
+    },
+    {
+      "İl": "Elazığ",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 69.1,
+      "Kılıçdaroğlu": 30.9,
+      "Katılım": 83.2
+    },
+    {
+      "İl": "Elazığ",
+      "İlçe": "PALU",
+      "Erdoğan": 89.1,
+      "Kılıçdaroğlu": 10.9,
+      "Katılım": 82.5
+    },
+    {
+      "İl": "Elazığ",
+      "İlçe": "SİVRİCE",
+      "Erdoğan": 79.3,
+      "Kılıçdaroğlu": 20.7,
+      "Katılım": 83.6
+    },
+    {
+      "İl": "Erzincan",
+      "İlçe": "ÇAYIRLI",
+      "Erdoğan": 57.2,
+      "Kılıçdaroğlu": 42.8,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Erzincan",
+      "İlçe": "İLİÇ",
+      "Erdoğan": 72.1,
+      "Kılıçdaroğlu": 27.9,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "Erzincan",
+      "İlçe": "KEMAH",
+      "Erdoğan": 61.4,
+      "Kılıçdaroğlu": 38.6,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Erzincan",
+      "İlçe": "KEMALİYE",
+      "Erdoğan": 70.6,
+      "Kılıçdaroğlu": 29.4,
+      "Katılım": 82.1
+    },
+    {
+      "İl": "Erzincan",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 60.8,
+      "Kılıçdaroğlu": 39.2,
+      "Katılım": 90.1
+    },
+    {
+      "İl": "Erzincan",
+      "İlçe": "OTLUKBELİ",
+      "Erdoğan": 82.1,
+      "Kılıçdaroğlu": 17.9,
+      "Katılım": 85.9
+    },
+    {
+      "İl": "Erzincan",
+      "İlçe": "REFAHİYE",
+      "Erdoğan": 68.9,
+      "Kılıçdaroğlu": 31.1,
+      "Katılım": 85.3
+    },
+    {
+      "İl": "Erzincan",
+      "İlçe": "TERCAN",
+      "Erdoğan": 59.2,
+      "Kılıçdaroğlu": 40.8,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Erzincan",
+      "İlçe": "ÜZÜMLÜ",
+      "Erdoğan": 64.3,
+      "Kılıçdaroğlu": 35.7,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "AŞKALE",
+      "Erdoğan": 83.4,
+      "Kılıçdaroğlu": 16.6,
+      "Katılım": 86.9
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "AZİZİYE",
+      "Erdoğan": 81.2,
+      "Kılıçdaroğlu": 18.8,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "ÇAT",
+      "Erdoğan": 70.4,
+      "Kılıçdaroğlu": 29.6,
+      "Katılım": 79.4
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "HINIS",
+      "Erdoğan": 45.1,
+      "Kılıçdaroğlu": 54.9,
+      "Katılım": 73.1
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "HORASAN",
+      "Erdoğan": 83.3,
+      "Kılıçdaroğlu": 16.7,
+      "Katılım": 76.7
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "İSPİR",
+      "Erdoğan": 84.8,
+      "Kılıçdaroğlu": 15.2,
+      "Katılım": 84.7
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "KARAÇOBAN",
+      "Erdoğan": 27.8,
+      "Kılıçdaroğlu": 72.2,
+      "Katılım": 63.4
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "KARAYAZI",
+      "Erdoğan": 30.7,
+      "Kılıçdaroğlu": 69.3,
+      "Katılım": 71.3
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "KÖPRÜKÖY",
+      "Erdoğan": 82.6,
+      "Kılıçdaroğlu": 17.4,
+      "Katılım": 80.2
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "NARMAN",
+      "Erdoğan": 83.8,
+      "Kılıçdaroğlu": 16.2,
+      "Katılım": 84.3
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "OLTU",
+      "Erdoğan": 82.1,
+      "Kılıçdaroğlu": 17.9,
+      "Katılım": 84.6
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "OLUR",
+      "Erdoğan": 81.5,
+      "Kılıçdaroğlu": 18.5,
+      "Katılım": 82
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "PALANDÖKEN",
+      "Erdoğan": 72.7,
+      "Kılıçdaroğlu": 27.3,
+      "Katılım": 84.8
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "PASİNLER",
+      "Erdoğan": 83.3,
+      "Kılıçdaroğlu": 16.7,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "PAZARYOLU",
+      "Erdoğan": 89.9,
+      "Kılıçdaroğlu": 10.1,
+      "Katılım": 84.7
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "ŞENKAYA",
+      "Erdoğan": 59.5,
+      "Kılıçdaroğlu": 40.5,
+      "Katılım": 78.3
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "TEKMAN",
+      "Erdoğan": 32,
+      "Kılıçdaroğlu": 68,
+      "Katılım": 69.5
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "TORTUM",
+      "Erdoğan": 88.9,
+      "Kılıçdaroğlu": 11.1,
+      "Katılım": 87
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "UZUNDERE",
+      "Erdoğan": 84.1,
+      "Kılıçdaroğlu": 15.9,
+      "Katılım": 85
+    },
+    {
+      "İl": "Erzurum",
+      "İlçe": "YAKUTİYE",
+      "Erdoğan": 77.7,
+      "Kılıçdaroğlu": 22.3,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "ALPU",
+      "Erdoğan": 64.7,
+      "Kılıçdaroğlu": 35.3,
+      "Katılım": 85.9
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "BEYLİKOVA",
+      "Erdoğan": 52.3,
+      "Kılıçdaroğlu": 47.7,
+      "Katılım": 86.2
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "ÇİFTELER",
+      "Erdoğan": 59.3,
+      "Kılıçdaroğlu": 40.7,
+      "Katılım": 83.2
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "GÜNYÜZÜ",
+      "Erdoğan": 72.7,
+      "Kılıçdaroğlu": 27.3,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "HAN",
+      "Erdoğan": 48.7,
+      "Kılıçdaroğlu": 51.3,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "İNÖNÜ",
+      "Erdoğan": 63.5,
+      "Kılıçdaroğlu": 36.5,
+      "Katılım": 91.6
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "MAHMUDİYE",
+      "Erdoğan": 49,
+      "Kılıçdaroğlu": 51,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "MİHALGAZİ",
+      "Erdoğan": 66.1,
+      "Kılıçdaroğlu": 33.9,
+      "Katılım": 92
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "MİHALIÇÇIK",
+      "Erdoğan": 60,
+      "Kılıçdaroğlu": 40,
+      "Katılım": 83.3
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "ODUNPAZARI",
+      "Erdoğan": 42.4,
+      "Kılıçdaroğlu": 57.6,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "SARICAKAYA",
+      "Erdoğan": 68.8,
+      "Kılıçdaroğlu": 31.2,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "SEYİTGAZİ",
+      "Erdoğan": 53,
+      "Kılıçdaroğlu": 47,
+      "Katılım": 91.4
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "SİVRİHİSAR",
+      "Erdoğan": 58.1,
+      "Kılıçdaroğlu": 41.9,
+      "Katılım": 84.3
+    },
+    {
+      "İl": "Eskişehir",
+      "İlçe": "TEPEBAŞI",
+      "Erdoğan": 42.9,
+      "Kılıçdaroğlu": 57.1,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Gaziantep",
+      "İlçe": "ARABAN",
+      "Erdoğan": 67.2,
+      "Kılıçdaroğlu": 32.8,
+      "Katılım": 81.2
+    },
+    {
+      "İl": "Gaziantep",
+      "İlçe": "İSLAHİYE",
+      "Erdoğan": 63.1,
+      "Kılıçdaroğlu": 36.9,
+      "Katılım": 80.4
+    },
+    {
+      "İl": "Gaziantep",
+      "İlçe": "KARKAMIŞ",
+      "Erdoğan": 59.7,
+      "Kılıçdaroğlu": 40.3,
+      "Katılım": 89.6
+    },
+    {
+      "İl": "Gaziantep",
+      "İlçe": "NİZİP",
+      "Erdoğan": 66.8,
+      "Kılıçdaroğlu": 33.2,
+      "Katılım": 83
+    },
+    {
+      "İl": "Gaziantep",
+      "İlçe": "NURDAĞI",
+      "Erdoğan": 77.8,
+      "Kılıçdaroğlu": 22.2,
+      "Katılım": 79.1
+    },
+    {
+      "İl": "Gaziantep",
+      "İlçe": "OĞUZELİ",
+      "Erdoğan": 68.3,
+      "Kılıçdaroğlu": 31.7,
+      "Katılım": 86.9
+    },
+    {
+      "İl": "Gaziantep",
+      "İlçe": "ŞAHİNBEY",
+      "Erdoğan": 62,
+      "Kılıçdaroğlu": 38,
+      "Katılım": 82.3
+    },
+    {
+      "İl": "Gaziantep",
+      "İlçe": "ŞEHİTKAMİL",
+      "Erdoğan": 61.6,
+      "Kılıçdaroğlu": 38.4,
+      "Katılım": 83.1
+    },
+    {
+      "İl": "Gaziantep",
+      "İlçe": "YAVUZELİ",
+      "Erdoğan": 66.7,
+      "Kılıçdaroğlu": 33.3,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "ALUCRA",
+      "Erdoğan": 87.6,
+      "Kılıçdaroğlu": 12.4,
+      "Katılım": 80
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "BULANCAK",
+      "Erdoğan": 66.2,
+      "Kılıçdaroğlu": 33.8,
+      "Katılım": 87.5
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "ÇAMOLUK",
+      "Erdoğan": 88.5,
+      "Kılıçdaroğlu": 11.5,
+      "Katılım": 83.3
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "ÇANAKÇI",
+      "Erdoğan": 78.4,
+      "Kılıçdaroğlu": 21.6,
+      "Katılım": 85.1
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "DERELİ",
+      "Erdoğan": 83.3,
+      "Kılıçdaroğlu": 16.7,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "DOĞANKENT",
+      "Erdoğan": 75.4,
+      "Kılıçdaroğlu": 24.6,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "ESPİYE",
+      "Erdoğan": 66.9,
+      "Kılıçdaroğlu": 33.1,
+      "Katılım": 84.2
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "EYNESİL",
+      "Erdoğan": 65.8,
+      "Kılıçdaroğlu": 34.2,
+      "Katılım": 84.2
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "GÖRELE",
+      "Erdoğan": 62.1,
+      "Kılıçdaroğlu": 37.9,
+      "Katılım": 82.9
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "GÜCE",
+      "Erdoğan": 80.1,
+      "Kılıçdaroğlu": 19.9,
+      "Katılım": 87.1
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "KEŞAP",
+      "Erdoğan": 65.4,
+      "Kılıçdaroğlu": 34.6,
+      "Katılım": 85.5
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 52.3,
+      "Kılıçdaroğlu": 47.7,
+      "Katılım": 86
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "PİRAZİZ",
+      "Erdoğan": 61.5,
+      "Kılıçdaroğlu": 38.5,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "ŞEBİNKARAHİSAR",
+      "Erdoğan": 81,
+      "Kılıçdaroğlu": 19,
+      "Katılım": 85.1
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "TİREBOLU",
+      "Erdoğan": 66,
+      "Kılıçdaroğlu": 34,
+      "Katılım": 85
+    },
+    {
+      "İl": "Giresun",
+      "İlçe": "YAĞLIDERE",
+      "Erdoğan": 81.8,
+      "Kılıçdaroğlu": 18.2,
+      "Katılım": 83.5
+    },
+    {
+      "İl": "Gümüşhane",
+      "İlçe": "KELKİT",
+      "Erdoğan": 83.6,
+      "Kılıçdaroğlu": 16.4,
+      "Katılım": 77.7
+    },
+    {
+      "İl": "Gümüşhane",
+      "İlçe": "KÖSE",
+      "Erdoğan": 90.2,
+      "Kılıçdaroğlu": 9.8,
+      "Katılım": 80.9
+    },
+    {
+      "İl": "Gümüşhane",
+      "İlçe": "KÜRTÜN",
+      "Erdoğan": 84.9,
+      "Kılıçdaroğlu": 15.1,
+      "Katılım": 83.8
+    },
+    {
+      "İl": "Gümüşhane",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 72.5,
+      "Kılıçdaroğlu": 27.5,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "Gümüşhane",
+      "İlçe": "ŞİRAN",
+      "Erdoğan": 76.9,
+      "Kılıçdaroğlu": 23.1,
+      "Katılım": 74
+    },
+    {
+      "İl": "Gümüşhane",
+      "İlçe": "TORUL",
+      "Erdoğan": 78.1,
+      "Kılıçdaroğlu": 21.9,
+      "Katılım": 82.4
+    },
+    {
+      "İl": "Hakkari",
+      "İlçe": "ÇUKURCA",
+      "Erdoğan": 31.4,
+      "Kılıçdaroğlu": 68.6,
+      "Katılım": 75
+    },
+    {
+      "İl": "Hakkari",
+      "İlçe": "DERECİK",
+      "Erdoğan": 70,
+      "Kılıçdaroğlu": 30,
+      "Katılım": 74.3
+    },
+    {
+      "İl": "Hakkari",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 24.5,
+      "Kılıçdaroğlu": 75.5,
+      "Katılım": 80.4
+    },
+    {
+      "İl": "Hakkari",
+      "İlçe": "ŞEMDİNLİ",
+      "Erdoğan": 43.2,
+      "Kılıçdaroğlu": 56.8,
+      "Katılım": 74.9
+    },
+    {
+      "İl": "Hakkari",
+      "İlçe": "YÜKSEKOVA",
+      "Erdoğan": 17.5,
+      "Kılıçdaroğlu": 82.5,
+      "Katılım": 78.9
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "ALTINÖZÜ",
+      "Erdoğan": 86.8,
+      "Kılıçdaroğlu": 13.2,
+      "Katılım": 85.5
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "ANTAKYA",
+      "Erdoğan": 56.5,
+      "Kılıçdaroğlu": 43.5,
+      "Katılım": 74.9
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "ARSUZ",
+      "Erdoğan": 23.5,
+      "Kılıçdaroğlu": 76.5,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "BELEN",
+      "Erdoğan": 67.6,
+      "Kılıçdaroğlu": 32.4,
+      "Katılım": 85
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "DEFNE",
+      "Erdoğan": 8.7,
+      "Kılıçdaroğlu": 91.3,
+      "Katılım": 80.1
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "DÖRTYOL",
+      "Erdoğan": 55.9,
+      "Kılıçdaroğlu": 44.1,
+      "Katılım": 84.4
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "ERZİN",
+      "Erdoğan": 50.3,
+      "Kılıçdaroğlu": 49.7,
+      "Katılım": 86
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "HASSA",
+      "Erdoğan": 76.6,
+      "Kılıçdaroğlu": 23.4,
+      "Katılım": 83.2
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "İSKENDERUN",
+      "Erdoğan": 50.6,
+      "Kılıçdaroğlu": 49.4,
+      "Katılım": 82
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "KIRIKHAN",
+      "Erdoğan": 78.6,
+      "Kılıçdaroğlu": 21.4,
+      "Katılım": 81.2
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "KUMLU",
+      "Erdoğan": 74.9,
+      "Kılıçdaroğlu": 25.1,
+      "Katılım": 82.1
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "PAYAS",
+      "Erdoğan": 63.5,
+      "Kılıçdaroğlu": 36.5,
+      "Katılım": 87
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "REYHANLI",
+      "Erdoğan": 83.6,
+      "Kılıçdaroğlu": 16.4,
+      "Katılım": 79.9
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "SAMANDAĞ",
+      "Erdoğan": 7.5,
+      "Kılıçdaroğlu": 92.5,
+      "Katılım": 86.4
+    },
+    {
+      "İl": "Hatay",
+      "İlçe": "YAYLADAĞI",
+      "Erdoğan": 82.1,
+      "Kılıçdaroğlu": 17.9,
+      "Katılım": 89.6
+    },
+    {
+      "İl": "Iğdır",
+      "İlçe": "ARALIK",
+      "Erdoğan": 39.9,
+      "Kılıçdaroğlu": 60.1,
+      "Katılım": 68.7
+    },
+    {
+      "İl": "Iğdır",
+      "İlçe": "KARAKOYUNLU",
+      "Erdoğan": 41.1,
+      "Kılıçdaroğlu": 58.9,
+      "Katılım": 70.2
+    },
+    {
+      "İl": "Iğdır",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 31.7,
+      "Kılıçdaroğlu": 68.3,
+      "Katılım": 73
+    },
+    {
+      "İl": "Iğdır",
+      "İlçe": "TUZLUCA",
+      "Erdoğan": 32.5,
+      "Kılıçdaroğlu": 67.5,
+      "Katılım": 69
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "AKSU",
+      "Erdoğan": 61.1,
+      "Kılıçdaroğlu": 38.9,
+      "Katılım": 85.2
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "ATABEY",
+      "Erdoğan": 56.3,
+      "Kılıçdaroğlu": 43.7,
+      "Katılım": 90.2
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "EĞİRDİR",
+      "Erdoğan": 61.8,
+      "Kılıçdaroğlu": 38.2,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "GELENDOST",
+      "Erdoğan": 54.9,
+      "Kılıçdaroğlu": 45.1,
+      "Katılım": 83.7
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "GÖNEN",
+      "Erdoğan": 50.8,
+      "Kılıçdaroğlu": 49.2,
+      "Katılım": 89.9
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "KEÇİBORLU",
+      "Erdoğan": 59.9,
+      "Kılıçdaroğlu": 40.1,
+      "Katılım": 89.1
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 55,
+      "Kılıçdaroğlu": 45,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "ŞARKİKARAAĞAÇ",
+      "Erdoğan": 61.8,
+      "Kılıçdaroğlu": 38.2,
+      "Katılım": 84.8
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "SENİRKENT",
+      "Erdoğan": 57.2,
+      "Kılıçdaroğlu": 42.8,
+      "Katılım": 86.4
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "SÜTÇÜLER",
+      "Erdoğan": 81.1,
+      "Kılıçdaroğlu": 18.9,
+      "Katılım": 86.4
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "ULUBORLU",
+      "Erdoğan": 56,
+      "Kılıçdaroğlu": 44,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "YALVAÇ",
+      "Erdoğan": 64,
+      "Kılıçdaroğlu": 36,
+      "Katılım": 81
+    },
+    {
+      "İl": "Isparta",
+      "İlçe": "YENİŞARBADEMLİ",
+      "Erdoğan": 55.5,
+      "Kılıçdaroğlu": 44.5,
+      "Katılım": 83.6
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ADALAR",
+      "Erdoğan": 25.8,
+      "Kılıçdaroğlu": 74.2,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ARNAVUTKÖY",
+      "Erdoğan": 63.7,
+      "Kılıçdaroğlu": 36.3,
+      "Katılım": 86.8
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ATAŞEHİR",
+      "Erdoğan": 41.7,
+      "Kılıçdaroğlu": 58.3,
+      "Katılım": 89
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "AVCILAR",
+      "Erdoğan": 42.1,
+      "Kılıçdaroğlu": 57.9,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "BAĞCILAR",
+      "Erdoğan": 59.7,
+      "Kılıçdaroğlu": 40.3,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "BAHÇELİEVLER",
+      "Erdoğan": 50.5,
+      "Kılıçdaroğlu": 49.5,
+      "Katılım": 87.5
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "BAKIRKÖY",
+      "Erdoğan": 23.8,
+      "Kılıçdaroğlu": 76.2,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "BAŞAKŞEHİR",
+      "Erdoğan": 54.9,
+      "Kılıçdaroğlu": 45.1,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "BAYRAMPAŞA",
+      "Erdoğan": 52.8,
+      "Kılıçdaroğlu": 47.2,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "BEŞİKTAŞ",
+      "Erdoğan": 17.5,
+      "Kılıçdaroğlu": 82.5,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "BEYKOZ",
+      "Erdoğan": 54.2,
+      "Kılıçdaroğlu": 45.8,
+      "Katılım": 88.8
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "BEYLİKDÜZÜ",
+      "Erdoğan": 42.3,
+      "Kılıçdaroğlu": 57.7,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "BEYOĞLU",
+      "Erdoğan": 49.8,
+      "Kılıçdaroğlu": 50.2,
+      "Katılım": 85.7
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "BÜYÜKÇEKMECE",
+      "Erdoğan": 44.7,
+      "Kılıçdaroğlu": 55.3,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ÇATALCA",
+      "Erdoğan": 43,
+      "Kılıçdaroğlu": 57,
+      "Katılım": 89.8
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ÇEKMEKÖY",
+      "Erdoğan": 51.2,
+      "Kılıçdaroğlu": 48.8,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ESENLER",
+      "Erdoğan": 64.2,
+      "Kılıçdaroğlu": 35.8,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ESENYURT",
+      "Erdoğan": 46,
+      "Kılıçdaroğlu": 54,
+      "Katılım": 85
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "EYÜPSULTAN",
+      "Erdoğan": 47.9,
+      "Kılıçdaroğlu": 52.1,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "FATİH",
+      "Erdoğan": 54,
+      "Kılıçdaroğlu": 46,
+      "Katılım": 84.8
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "GAZİOSMANPAŞA",
+      "Erdoğan": 57,
+      "Kılıçdaroğlu": 43,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "GÜNGÖREN",
+      "Erdoğan": 54.1,
+      "Kılıçdaroğlu": 45.9,
+      "Katılım": 87
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "KADIKÖY",
+      "Erdoğan": 17.6,
+      "Kılıçdaroğlu": 82.4,
+      "Katılım": 89.4
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "KAĞITHANE",
+      "Erdoğan": 52.5,
+      "Kılıçdaroğlu": 47.5,
+      "Katılım": 87.4
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "KARTAL",
+      "Erdoğan": 42.2,
+      "Kılıçdaroğlu": 57.8,
+      "Katılım": 89
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "KÜÇÜKÇEKMECE",
+      "Erdoğan": 44,
+      "Kılıçdaroğlu": 56,
+      "Katılım": 87.2
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "MALTEPE",
+      "Erdoğan": 37.5,
+      "Kılıçdaroğlu": 62.5,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "PENDİK",
+      "Erdoğan": 55.7,
+      "Kılıçdaroğlu": 44.3,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "SANCAKTEPE",
+      "Erdoğan": 50.2,
+      "Kılıçdaroğlu": 49.8,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "SARIYER",
+      "Erdoğan": 40.5,
+      "Kılıçdaroğlu": 59.5,
+      "Katılım": 88.1
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ŞİLE",
+      "Erdoğan": 51.2,
+      "Kılıçdaroğlu": 48.8,
+      "Katılım": 90.2
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "SİLİVRİ",
+      "Erdoğan": 41.7,
+      "Kılıçdaroğlu": 58.3,
+      "Katılım": 90.7
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ŞİŞLİ",
+      "Erdoğan": 28.7,
+      "Kılıçdaroğlu": 71.3,
+      "Katılım": 85.5
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "SULTANBEYLİ",
+      "Erdoğan": 67.1,
+      "Kılıçdaroğlu": 32.9,
+      "Katılım": 87.4
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "SULTANGAZİ",
+      "Erdoğan": 59.7,
+      "Kılıçdaroğlu": 40.3,
+      "Katılım": 89.1
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "TUZLA",
+      "Erdoğan": 48.8,
+      "Kılıçdaroğlu": 51.2,
+      "Katılım": 89
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ÜMRANİYE",
+      "Erdoğan": 53.7,
+      "Kılıçdaroğlu": 46.3,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ÜSKÜDAR",
+      "Erdoğan": 47.1,
+      "Kılıçdaroğlu": 52.9,
+      "Katılım": 88.4
+    },
+    {
+      "İl": "İstanbul",
+      "İlçe": "ZEYTİNBURNU",
+      "Erdoğan": 51.6,
+      "Kılıçdaroğlu": 48.4,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "ALİAĞA",
+      "Erdoğan": 36.5,
+      "Kılıçdaroğlu": 63.5,
+      "Katılım": 90.8
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "BALÇOVA",
+      "Erdoğan": 22.3,
+      "Kılıçdaroğlu": 77.7,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "BAYINDIR",
+      "Erdoğan": 44.7,
+      "Kılıçdaroğlu": 55.3,
+      "Katılım": 88
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "BAYRAKLI",
+      "Erdoğan": 35.9,
+      "Kılıçdaroğlu": 64.1,
+      "Katılım": 87.4
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "BERGAMA",
+      "Erdoğan": 44,
+      "Kılıçdaroğlu": 56,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "BEYDAĞ",
+      "Erdoğan": 37.8,
+      "Kılıçdaroğlu": 62.2,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "BORNOVA",
+      "Erdoğan": 32.8,
+      "Kılıçdaroğlu": 67.2,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "BUCA",
+      "Erdoğan": 34.8,
+      "Kılıçdaroğlu": 65.2,
+      "Katılım": 85.7
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "ÇEŞME",
+      "Erdoğan": 25.3,
+      "Kılıçdaroğlu": 74.7,
+      "Katılım": 84.6
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "ÇİĞLİ",
+      "Erdoğan": 27,
+      "Kılıçdaroğlu": 73,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "DİKİLİ",
+      "Erdoğan": 24.4,
+      "Kılıçdaroğlu": 75.6,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "FOÇA",
+      "Erdoğan": 25.8,
+      "Kılıçdaroğlu": 74.2,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "GAZİEMİR",
+      "Erdoğan": 32.7,
+      "Kılıçdaroğlu": 67.3,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "GÜZELBAHÇE",
+      "Erdoğan": 18.2,
+      "Kılıçdaroğlu": 81.8,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "KARABAĞLAR",
+      "Erdoğan": 36.4,
+      "Kılıçdaroğlu": 63.6,
+      "Katılım": 86.3
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "KARABURUN",
+      "Erdoğan": 26.2,
+      "Kılıçdaroğlu": 73.8,
+      "Katılım": 88.1
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "KARŞIYAKA",
+      "Erdoğan": 17,
+      "Kılıçdaroğlu": 83,
+      "Katılım": 89.7
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "KEMALPAŞA",
+      "Erdoğan": 50.5,
+      "Kılıçdaroğlu": 49.5,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "KINIK",
+      "Erdoğan": 39.3,
+      "Kılıçdaroğlu": 60.7,
+      "Katılım": 91.5
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "KİRAZ",
+      "Erdoğan": 54.8,
+      "Kılıçdaroğlu": 45.2,
+      "Katılım": 86
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "KONAK",
+      "Erdoğan": 28.6,
+      "Kılıçdaroğlu": 71.4,
+      "Katılım": 84.3
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "MENDERES",
+      "Erdoğan": 39.9,
+      "Kılıçdaroğlu": 60.1,
+      "Katılım": 86.5
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "MENEMEN",
+      "Erdoğan": 34.2,
+      "Kılıçdaroğlu": 65.8,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "NARLIDERE",
+      "Erdoğan": 15,
+      "Kılıçdaroğlu": 85,
+      "Katılım": 89.9
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "ÖDEMİŞ",
+      "Erdoğan": 45.6,
+      "Kılıçdaroğlu": 54.4,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "SEFERİHİSAR",
+      "Erdoğan": 27.6,
+      "Kılıçdaroğlu": 72.4,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "SELÇUK",
+      "Erdoğan": 32.2,
+      "Kılıçdaroğlu": 67.8,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "TİRE",
+      "Erdoğan": 41.7,
+      "Kılıçdaroğlu": 58.3,
+      "Katılım": 86.1
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "TORBALI",
+      "Erdoğan": 40.1,
+      "Kılıçdaroğlu": 59.9,
+      "Katılım": 87.2
+    },
+    {
+      "İl": "İzmir",
+      "İlçe": "URLA",
+      "Erdoğan": 20.8,
+      "Kılıçdaroğlu": 79.2,
+      "Katılım": 88.1
+    },
+    {
+      "İl": "Kahramanmaraş",
+      "İlçe": "AFŞİN",
+      "Erdoğan": 74.3,
+      "Kılıçdaroğlu": 25.7,
+      "Katılım": 81
+    },
+    {
+      "İl": "Kahramanmaraş",
+      "İlçe": "ANDIRIN",
+      "Erdoğan": 69.5,
+      "Kılıçdaroğlu": 30.5,
+      "Katılım": 86.2
+    },
+    {
+      "İl": "Kahramanmaraş",
+      "İlçe": "ÇAĞLAYANCERİT",
+      "Erdoğan": 66.3,
+      "Kılıçdaroğlu": 33.7,
+      "Katılım": 83.7
+    },
+    {
+      "İl": "Kahramanmaraş",
+      "İlçe": "DULKADİROĞLU",
+      "Erdoğan": 83.4,
+      "Kılıçdaroğlu": 16.6,
+      "Katılım": 84.8
+    },
+    {
+      "İl": "Kahramanmaraş",
+      "İlçe": "EKİNÖZÜ",
+      "Erdoğan": 67.6,
+      "Kılıçdaroğlu": 32.4,
+      "Katılım": 84.1
+    },
+    {
+      "İl": "Kahramanmaraş",
+      "İlçe": "ELBİSTAN",
+      "Erdoğan": 67.6,
+      "Kılıçdaroğlu": 32.4,
+      "Katılım": 75.7
+    },
+    {
+      "İl": "Kahramanmaraş",
+      "İlçe": "GÖKSUN",
+      "Erdoğan": 75.5,
+      "Kılıçdaroğlu": 24.5,
+      "Katılım": 80.8
+    },
+    {
+      "İl": "Kahramanmaraş",
+      "İlçe": "NURHAK",
+      "Erdoğan": 35.8,
+      "Kılıçdaroğlu": 64.2,
+      "Katılım": 74.9
+    },
+    {
+      "İl": "Kahramanmaraş",
+      "İlçe": "ONİKİŞUBAT",
+      "Erdoğan": 78.8,
+      "Kılıçdaroğlu": 21.2,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "Kahramanmaraş",
+      "İlçe": "PAZARCIK",
+      "Erdoğan": 56.2,
+      "Kılıçdaroğlu": 43.8,
+      "Katılım": 79.4
+    },
+    {
+      "İl": "Kahramanmaraş",
+      "İlçe": "TÜRKOĞLU",
+      "Erdoğan": 81.9,
+      "Kılıçdaroğlu": 18.1,
+      "Katılım": 86.3
+    },
+    {
+      "İl": "Karabük",
+      "İlçe": "EFLANİ",
+      "Erdoğan": 77.7,
+      "Kılıçdaroğlu": 22.3,
+      "Katılım": 82.5
+    },
+    {
+      "İl": "Karabük",
+      "İlçe": "ESKİPAZAR",
+      "Erdoğan": 77.6,
+      "Kılıçdaroğlu": 22.4,
+      "Katılım": 85.1
+    },
+    {
+      "İl": "Karabük",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 64.5,
+      "Kılıçdaroğlu": 35.5,
+      "Katılım": 86.4
+    },
+    {
+      "İl": "Karabük",
+      "İlçe": "OVACIK",
+      "Erdoğan": 71.9,
+      "Kılıçdaroğlu": 28.1,
+      "Katılım": 85.7
+    },
+    {
+      "İl": "Karabük",
+      "İlçe": "SAFRANBOLU",
+      "Erdoğan": 57,
+      "Kılıçdaroğlu": 43,
+      "Katılım": 88
+    },
+    {
+      "İl": "Karabük",
+      "İlçe": "YENİCE",
+      "Erdoğan": 64.1,
+      "Kılıçdaroğlu": 35.9,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "Karaman",
+      "İlçe": "AYRANCI",
+      "Erdoğan": 62.5,
+      "Kılıçdaroğlu": 37.5,
+      "Katılım": 85
+    },
+    {
+      "İl": "Karaman",
+      "İlçe": "BAŞYAYLA",
+      "Erdoğan": 79.3,
+      "Kılıçdaroğlu": 20.7,
+      "Katılım": 84.3
+    },
+    {
+      "İl": "Karaman",
+      "İlçe": "ERMENEK",
+      "Erdoğan": 56.9,
+      "Kılıçdaroğlu": 43.1,
+      "Katılım": 84.5
+    },
+    {
+      "İl": "Karaman",
+      "İlçe": "KAZIMKARABEKİR",
+      "Erdoğan": 73,
+      "Kılıçdaroğlu": 27,
+      "Katılım": 89.1
+    },
+    {
+      "İl": "Karaman",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 67.6,
+      "Kılıçdaroğlu": 32.4,
+      "Katılım": 86.9
+    },
+    {
+      "İl": "Karaman",
+      "İlçe": "SARIVELİLER",
+      "Erdoğan": 53.1,
+      "Kılıçdaroğlu": 46.9,
+      "Katılım": 83.9
+    },
+    {
+      "İl": "Kars",
+      "İlçe": "AKYAKA",
+      "Erdoğan": 47.5,
+      "Kılıçdaroğlu": 52.5,
+      "Katılım": 72.5
+    },
+    {
+      "İl": "Kars",
+      "İlçe": "ARPAÇAY",
+      "Erdoğan": 50,
+      "Kılıçdaroğlu": 50,
+      "Katılım": 74.6
+    },
+    {
+      "İl": "Kars",
+      "İlçe": "DİGOR",
+      "Erdoğan": 19,
+      "Kılıçdaroğlu": 81,
+      "Katılım": 69.2
+    },
+    {
+      "İl": "Kars",
+      "İlçe": "KAĞIZMAN",
+      "Erdoğan": 51,
+      "Kılıçdaroğlu": 49,
+      "Katılım": 69.6
+    },
+    {
+      "İl": "Kars",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 36.8,
+      "Kılıçdaroğlu": 63.2,
+      "Katılım": 78.1
+    },
+    {
+      "İl": "Kars",
+      "İlçe": "SARIKAMIŞ",
+      "Erdoğan": 63.8,
+      "Kılıçdaroğlu": 36.2,
+      "Katılım": 69.7
+    },
+    {
+      "İl": "Kars",
+      "İlçe": "SELİM",
+      "Erdoğan": 53.8,
+      "Kılıçdaroğlu": 46.2,
+      "Katılım": 74.9
+    },
+    {
+      "İl": "Kars",
+      "İlçe": "SUSUZ",
+      "Erdoğan": 34.7,
+      "Kılıçdaroğlu": 65.3,
+      "Katılım": 76.7
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "ABANA",
+      "Erdoğan": 64.8,
+      "Kılıçdaroğlu": 35.2,
+      "Katılım": 85.7
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "AĞLI",
+      "Erdoğan": 79.5,
+      "Kılıçdaroğlu": 20.5,
+      "Katılım": 84.8
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "ARAÇ",
+      "Erdoğan": 71,
+      "Kılıçdaroğlu": 29,
+      "Katılım": 85.9
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "AZDAVAY",
+      "Erdoğan": 61,
+      "Kılıçdaroğlu": 39,
+      "Katılım": 82.5
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "BOZKURT",
+      "Erdoğan": 76.4,
+      "Kılıçdaroğlu": 23.6,
+      "Katılım": 84.9
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "ÇATALZEYTİN",
+      "Erdoğan": 75.3,
+      "Kılıçdaroğlu": 24.7,
+      "Katılım": 81.6
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "CİDE",
+      "Erdoğan": 69.6,
+      "Kılıçdaroğlu": 30.4,
+      "Katılım": 82.4
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "DADAY",
+      "Erdoğan": 62.3,
+      "Kılıçdaroğlu": 37.7,
+      "Katılım": 84.9
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "DEVREKANİ",
+      "Erdoğan": 76.6,
+      "Kılıçdaroğlu": 23.4,
+      "Katılım": 84.6
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "DOĞANYURT",
+      "Erdoğan": 83.7,
+      "Kılıçdaroğlu": 16.3,
+      "Katılım": 78.5
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "HANÖNÜ",
+      "Erdoğan": 67.2,
+      "Kılıçdaroğlu": 32.8,
+      "Katılım": 84.3
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "İHSANGAZİ",
+      "Erdoğan": 82,
+      "Kılıçdaroğlu": 18,
+      "Katılım": 86.5
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "İNEBOLU",
+      "Erdoğan": 74.2,
+      "Kılıçdaroğlu": 25.8,
+      "Katılım": 84.2
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "KÜRE",
+      "Erdoğan": 72.2,
+      "Kılıçdaroğlu": 27.8,
+      "Katılım": 82.9
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 63.2,
+      "Kılıçdaroğlu": 36.8,
+      "Katılım": 86.1
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "PINARBAŞI",
+      "Erdoğan": 68.6,
+      "Kılıçdaroğlu": 31.4,
+      "Katılım": 78.4
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "ŞENPAZAR",
+      "Erdoğan": 75.7,
+      "Kılıçdaroğlu": 24.3,
+      "Katılım": 81.6
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "SEYDİLER",
+      "Erdoğan": 73.6,
+      "Kılıçdaroğlu": 26.4,
+      "Katılım": 86.2
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "TAŞKÖPRÜ",
+      "Erdoğan": 71.5,
+      "Kılıçdaroğlu": 28.5,
+      "Katılım": 84.5
+    },
+    {
+      "İl": "Kastamonu",
+      "İlçe": "TOSYA",
+      "Erdoğan": 81.7,
+      "Kılıçdaroğlu": 18.3,
+      "Katılım": 87.5
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "AKKIŞLA",
+      "Erdoğan": 57.8,
+      "Kılıçdaroğlu": 42.2,
+      "Katılım": 82.8
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "BÜNYAN",
+      "Erdoğan": 71.6,
+      "Kılıçdaroğlu": 28.4,
+      "Katılım": 88.4
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "DEVELİ",
+      "Erdoğan": 77.2,
+      "Kılıçdaroğlu": 22.8,
+      "Katılım": 87.4
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "FELAHİYE",
+      "Erdoğan": 65.4,
+      "Kılıçdaroğlu": 34.6,
+      "Katılım": 77.1
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "HACILAR",
+      "Erdoğan": 81.7,
+      "Kılıçdaroğlu": 18.3,
+      "Katılım": 93.6
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "İNCESU",
+      "Erdoğan": 73,
+      "Kılıçdaroğlu": 27,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "KOCASİNAN",
+      "Erdoğan": 67.2,
+      "Kılıçdaroğlu": 32.8,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "MELİKGAZİ",
+      "Erdoğan": 68.3,
+      "Kılıçdaroğlu": 31.7,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "ÖZVATAN",
+      "Erdoğan": 75.5,
+      "Kılıçdaroğlu": 24.5,
+      "Katılım": 84.4
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "PINARBAŞI",
+      "Erdoğan": 61.6,
+      "Kılıçdaroğlu": 38.4,
+      "Katılım": 80.7
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "SARIOĞLAN",
+      "Erdoğan": 68,
+      "Kılıçdaroğlu": 32,
+      "Katılım": 84.7
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "SARIZ",
+      "Erdoğan": 57.8,
+      "Kılıçdaroğlu": 42.2,
+      "Katılım": 80.5
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "TALAS",
+      "Erdoğan": 58.5,
+      "Kılıçdaroğlu": 41.5,
+      "Katılım": 87.2
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "TOMARZA",
+      "Erdoğan": 76.3,
+      "Kılıçdaroğlu": 23.7,
+      "Katılım": 86.8
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "YAHYALI",
+      "Erdoğan": 83.5,
+      "Kılıçdaroğlu": 16.5,
+      "Katılım": 89.8
+    },
+    {
+      "İl": "Kayseri",
+      "İlçe": "YEŞİLHİSAR",
+      "Erdoğan": 66.1,
+      "Kılıçdaroğlu": 33.9,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Kilis",
+      "İlçe": "ELBEYLİ",
+      "Erdoğan": 68.2,
+      "Kılıçdaroğlu": 31.8,
+      "Katılım": 89.1
+    },
+    {
+      "İl": "Kilis",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 68.5,
+      "Kılıçdaroğlu": 31.5,
+      "Katılım": 85.3
+    },
+    {
+      "İl": "Kilis",
+      "İlçe": "MUSABEYLİ",
+      "Erdoğan": 80.8,
+      "Kılıçdaroğlu": 19.2,
+      "Katılım": 87.1
+    },
+    {
+      "İl": "Kilis",
+      "İlçe": "POLATELİ",
+      "Erdoğan": 79.7,
+      "Kılıçdaroğlu": 20.3,
+      "Katılım": 89
+    },
+    {
+      "İl": "Kırıkkale",
+      "İlçe": "BAHŞİLİ",
+      "Erdoğan": 71.1,
+      "Kılıçdaroğlu": 28.9,
+      "Katılım": 86.1
+    },
+    {
+      "İl": "Kırıkkale",
+      "İlçe": "BALIŞEYH",
+      "Erdoğan": 63.7,
+      "Kılıçdaroğlu": 36.3,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "Kırıkkale",
+      "İlçe": "ÇELEBİ",
+      "Erdoğan": 71.7,
+      "Kılıçdaroğlu": 28.3,
+      "Katılım": 82.5
+    },
+    {
+      "İl": "Kırıkkale",
+      "İlçe": "DELİCE",
+      "Erdoğan": 66.2,
+      "Kılıçdaroğlu": 33.8,
+      "Katılım": 87.2
+    },
+    {
+      "İl": "Kırıkkale",
+      "İlçe": "KARAKEÇİLİ",
+      "Erdoğan": 81.5,
+      "Kılıçdaroğlu": 18.5,
+      "Katılım": 90.6
+    },
+    {
+      "İl": "Kırıkkale",
+      "İlçe": "KESKİN",
+      "Erdoğan": 71.9,
+      "Kılıçdaroğlu": 28.1,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "Kırıkkale",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 63.6,
+      "Kılıçdaroğlu": 36.4,
+      "Katılım": 84.4
+    },
+    {
+      "İl": "Kırıkkale",
+      "İlçe": "SULAKYURT",
+      "Erdoğan": 59.5,
+      "Kılıçdaroğlu": 40.5,
+      "Katılım": 87.2
+    },
+    {
+      "İl": "Kırıkkale",
+      "İlçe": "YAHŞİHAN",
+      "Erdoğan": 55,
+      "Kılıçdaroğlu": 45,
+      "Katılım": 85.6
+    },
+    {
+      "İl": "Kırklareli",
+      "İlçe": "BABAESKİ",
+      "Erdoğan": 25.8,
+      "Kılıçdaroğlu": 74.2,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Kırklareli",
+      "İlçe": "DEMİRKÖY",
+      "Erdoğan": 48.6,
+      "Kılıçdaroğlu": 51.4,
+      "Katılım": 86
+    },
+    {
+      "İl": "Kırklareli",
+      "İlçe": "KOFÇAZ",
+      "Erdoğan": 40.9,
+      "Kılıçdaroğlu": 59.1,
+      "Katılım": 91.8
+    },
+    {
+      "İl": "Kırklareli",
+      "İlçe": "LÜLEBURGAZ",
+      "Erdoğan": 28.9,
+      "Kılıçdaroğlu": 71.1,
+      "Katılım": 89.6
+    },
+    {
+      "İl": "Kırklareli",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 35.5,
+      "Kılıçdaroğlu": 64.5,
+      "Katılım": 87.2
+    },
+    {
+      "İl": "Kırklareli",
+      "İlçe": "PEHLİVANKÖY",
+      "Erdoğan": 30.2,
+      "Kılıçdaroğlu": 69.8,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Kırklareli",
+      "İlçe": "PINARHİSAR",
+      "Erdoğan": 35.9,
+      "Kılıçdaroğlu": 64.1,
+      "Katılım": 89.9
+    },
+    {
+      "İl": "Kırklareli",
+      "İlçe": "VİZE",
+      "Erdoğan": 33.7,
+      "Kılıçdaroğlu": 66.3,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Kırşehir",
+      "İlçe": "AKÇAKENT",
+      "Erdoğan": 80,
+      "Kılıçdaroğlu": 20,
+      "Katılım": 84.8
+    },
+    {
+      "İl": "Kırşehir",
+      "İlçe": "AKPINAR",
+      "Erdoğan": 63.6,
+      "Kılıçdaroğlu": 36.4,
+      "Katılım": 83
+    },
+    {
+      "İl": "Kırşehir",
+      "İlçe": "BOZTEPE",
+      "Erdoğan": 43.5,
+      "Kılıçdaroğlu": 56.5,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Kırşehir",
+      "İlçe": "ÇİÇEKDAĞI",
+      "Erdoğan": 72.2,
+      "Kılıçdaroğlu": 27.8,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Kırşehir",
+      "İlçe": "KAMAN",
+      "Erdoğan": 58.7,
+      "Kılıçdaroğlu": 41.3,
+      "Katılım": 79
+    },
+    {
+      "İl": "Kırşehir",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 54.4,
+      "Kılıçdaroğlu": 45.6,
+      "Katılım": 84.3
+    },
+    {
+      "İl": "Kırşehir",
+      "İlçe": "MUCUR",
+      "Erdoğan": 62.6,
+      "Kılıçdaroğlu": 37.4,
+      "Katılım": 86.1
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "BAŞİSKELE",
+      "Erdoğan": 64.4,
+      "Kılıçdaroğlu": 35.6,
+      "Katılım": 90.9
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "ÇAYIROVA",
+      "Erdoğan": 58.8,
+      "Kılıçdaroğlu": 41.2,
+      "Katılım": 88.1
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "DARICA",
+      "Erdoğan": 55.7,
+      "Kılıçdaroğlu": 44.3,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "DERİNCE",
+      "Erdoğan": 54.2,
+      "Kılıçdaroğlu": 45.8,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "DİLOVASI",
+      "Erdoğan": 56.4,
+      "Kılıçdaroğlu": 43.6,
+      "Katılım": 83.8
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "GEBZE",
+      "Erdoğan": 60,
+      "Kılıçdaroğlu": 40,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "GÖLCÜK",
+      "Erdoğan": 56.2,
+      "Kılıçdaroğlu": 43.8,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "İZMİT",
+      "Erdoğan": 51.4,
+      "Kılıçdaroğlu": 48.6,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "KANDIRA",
+      "Erdoğan": 67.3,
+      "Kılıçdaroğlu": 32.7,
+      "Katılım": 92.1
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "KARAMÜRSEL",
+      "Erdoğan": 58.1,
+      "Kılıçdaroğlu": 41.9,
+      "Katılım": 85.3
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "KARTEPE",
+      "Erdoğan": 61.1,
+      "Kılıçdaroğlu": 38.9,
+      "Katılım": 90
+    },
+    {
+      "İl": "Kocaeli",
+      "İlçe": "KÖRFEZ",
+      "Erdoğan": 54.3,
+      "Kılıçdaroğlu": 45.7,
+      "Katılım": 87.4
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "AHIRLI",
+      "Erdoğan": 74.8,
+      "Kılıçdaroğlu": 25.2,
+      "Katılım": 86.4
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "AKÖREN",
+      "Erdoğan": 81.4,
+      "Kılıçdaroğlu": 18.6,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "AKŞEHİR",
+      "Erdoğan": 63,
+      "Kılıçdaroğlu": 37,
+      "Katılım": 84.1
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "ALTINEKİN",
+      "Erdoğan": 85.2,
+      "Kılıçdaroğlu": 14.8,
+      "Katılım": 92.5
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "BEYŞEHİR",
+      "Erdoğan": 72.2,
+      "Kılıçdaroğlu": 27.8,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "BOZKIR",
+      "Erdoğan": 76.5,
+      "Kılıçdaroğlu": 23.5,
+      "Katılım": 83.7
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "ÇELTİK",
+      "Erdoğan": 71.8,
+      "Kılıçdaroğlu": 28.2,
+      "Katılım": 80.3
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "CİHANBEYLİ",
+      "Erdoğan": 55.5,
+      "Kılıçdaroğlu": 44.5,
+      "Katılım": 71.7
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "ÇUMRA",
+      "Erdoğan": 80.6,
+      "Kılıçdaroğlu": 19.4,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "DERBENT",
+      "Erdoğan": 73,
+      "Kılıçdaroğlu": 27,
+      "Katılım": 92.7
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "DEREBUCAK",
+      "Erdoğan": 71.4,
+      "Kılıçdaroğlu": 28.6,
+      "Katılım": 78.3
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "DOĞANHİSAR",
+      "Erdoğan": 67.9,
+      "Kılıçdaroğlu": 32.1,
+      "Katılım": 86.4
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "EMİRGAZİ",
+      "Erdoğan": 66.5,
+      "Kılıçdaroğlu": 33.5,
+      "Katılım": 80
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "EREĞLİ",
+      "Erdoğan": 57.6,
+      "Kılıçdaroğlu": 42.4,
+      "Katılım": 84.3
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "GÜNEYSINIR",
+      "Erdoğan": 89.6,
+      "Kılıçdaroğlu": 10.4,
+      "Katılım": 91.9
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "HADİM",
+      "Erdoğan": 72.9,
+      "Kılıçdaroğlu": 27.1,
+      "Katılım": 86.1
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "HALKAPINAR",
+      "Erdoğan": 75.9,
+      "Kılıçdaroğlu": 24.1,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "HÜYÜK",
+      "Erdoğan": 66.7,
+      "Kılıçdaroğlu": 33.3,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "ILGIN",
+      "Erdoğan": 70.5,
+      "Kılıçdaroğlu": 29.5,
+      "Katılım": 86.2
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "KADINHANI",
+      "Erdoğan": 83.1,
+      "Kılıçdaroğlu": 16.9,
+      "Katılım": 90.4
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "KARAPINAR",
+      "Erdoğan": 70.9,
+      "Kılıçdaroğlu": 29.1,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "KARATAY",
+      "Erdoğan": 82.2,
+      "Kılıçdaroğlu": 17.8,
+      "Katılım": 87.4
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "KULU",
+      "Erdoğan": 66.1,
+      "Kılıçdaroğlu": 33.9,
+      "Katılım": 68.5
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "MERAM",
+      "Erdoğan": 78.9,
+      "Kılıçdaroğlu": 21.1,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "SARAYÖNÜ",
+      "Erdoğan": 83.5,
+      "Kılıçdaroğlu": 16.5,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "SELÇUKLU",
+      "Erdoğan": 71.3,
+      "Kılıçdaroğlu": 28.7,
+      "Katılım": 86.8
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "SEYDİŞEHİR",
+      "Erdoğan": 60.1,
+      "Kılıçdaroğlu": 39.9,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "TAŞKENT",
+      "Erdoğan": 70.5,
+      "Kılıçdaroğlu": 29.5,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "TUZLUKÇU",
+      "Erdoğan": 60,
+      "Kılıçdaroğlu": 40,
+      "Katılım": 84.3
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "YALIHÜYÜK",
+      "Erdoğan": 78.4,
+      "Kılıçdaroğlu": 21.6,
+      "Katılım": 82.8
+    },
+    {
+      "İl": "Konya",
+      "İlçe": "YUNAK",
+      "Erdoğan": 75.3,
+      "Kılıçdaroğlu": 24.7,
+      "Katılım": 76.7
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "ALTINTAŞ",
+      "Erdoğan": 75.3,
+      "Kılıçdaroğlu": 24.7,
+      "Katılım": 86.8
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "ASLANAPA",
+      "Erdoğan": 86.8,
+      "Kılıçdaroğlu": 13.2,
+      "Katılım": 92.2
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "ÇAVDARHİSAR",
+      "Erdoğan": 69.7,
+      "Kılıçdaroğlu": 30.3,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "DOMANİÇ",
+      "Erdoğan": 69.3,
+      "Kılıçdaroğlu": 30.7,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "DUMLUPINAR",
+      "Erdoğan": 69.4,
+      "Kılıçdaroğlu": 30.6,
+      "Katılım": 81.5
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "EMET",
+      "Erdoğan": 75.9,
+      "Kılıçdaroğlu": 24.1,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "GEDİZ",
+      "Erdoğan": 69.7,
+      "Kılıçdaroğlu": 30.3,
+      "Katılım": 89.6
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "HİSARCIK",
+      "Erdoğan": 72.3,
+      "Kılıçdaroğlu": 27.7,
+      "Katılım": 88.8
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 68.4,
+      "Kılıçdaroğlu": 31.6,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "PAZARLAR",
+      "Erdoğan": 77.1,
+      "Kılıçdaroğlu": 22.9,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "ŞAPHANE",
+      "Erdoğan": 70.8,
+      "Kılıçdaroğlu": 29.2,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "SİMAV",
+      "Erdoğan": 70.6,
+      "Kılıçdaroğlu": 29.4,
+      "Katılım": 89
+    },
+    {
+      "İl": "Kütahya",
+      "İlçe": "TAVŞANLI",
+      "Erdoğan": 72.9,
+      "Kılıçdaroğlu": 27.1,
+      "Katılım": 90.1
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "AKÇADAĞ",
+      "Erdoğan": 59.8,
+      "Kılıçdaroğlu": 40.2,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "ARAPGİR",
+      "Erdoğan": 57.1,
+      "Kılıçdaroğlu": 42.9,
+      "Katılım": 83.9
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "ARGUVAN",
+      "Erdoğan": 20.8,
+      "Kılıçdaroğlu": 79.2,
+      "Katılım": 90.8
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "BATTALGAZİ",
+      "Erdoğan": 79.3,
+      "Kılıçdaroğlu": 20.7,
+      "Katılım": 78.8
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "DARENDE",
+      "Erdoğan": 82.3,
+      "Kılıçdaroğlu": 17.7,
+      "Katılım": 85.3
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "DOĞANŞEHİR",
+      "Erdoğan": 59.8,
+      "Kılıçdaroğlu": 40.2,
+      "Katılım": 83
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "DOĞANYOL",
+      "Erdoğan": 82.5,
+      "Kılıçdaroğlu": 17.5,
+      "Katılım": 81.2
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "HEKİMHAN",
+      "Erdoğan": 44.8,
+      "Kılıçdaroğlu": 55.2,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "KALE",
+      "Erdoğan": 89.8,
+      "Kılıçdaroğlu": 10.2,
+      "Katılım": 90.9
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "KULUNCAK",
+      "Erdoğan": 67.1,
+      "Kılıçdaroğlu": 32.9,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "PÜTÜRGE",
+      "Erdoğan": 83.7,
+      "Kılıçdaroğlu": 16.3,
+      "Katılım": 82.1
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "YAZIHAN",
+      "Erdoğan": 66.2,
+      "Kılıçdaroğlu": 33.8,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "Malatya",
+      "İlçe": "YEŞİLYURT",
+      "Erdoğan": 70.5,
+      "Kılıçdaroğlu": 29.5,
+      "Katılım": 77.6
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "AHMETLİ",
+      "Erdoğan": 53.6,
+      "Kılıçdaroğlu": 46.4,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "AKHİSAR",
+      "Erdoğan": 48,
+      "Kılıçdaroğlu": 52,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "ALAŞEHİR",
+      "Erdoğan": 50.8,
+      "Kılıçdaroğlu": 49.2,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "DEMİRCİ",
+      "Erdoğan": 71.5,
+      "Kılıçdaroğlu": 28.5,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "GÖLMARMARA",
+      "Erdoğan": 43,
+      "Kılıçdaroğlu": 57,
+      "Katılım": 89.9
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "GÖRDES",
+      "Erdoğan": 65.5,
+      "Kılıçdaroğlu": 34.5,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "KIRKAĞAÇ",
+      "Erdoğan": 69,
+      "Kılıçdaroğlu": 31,
+      "Katılım": 90
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "KÖPRÜBAŞI",
+      "Erdoğan": 57.8,
+      "Kılıçdaroğlu": 42.2,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "KULA",
+      "Erdoğan": 60.8,
+      "Kılıçdaroğlu": 39.2,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "SALİHLİ",
+      "Erdoğan": 42.1,
+      "Kılıçdaroğlu": 57.9,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "SARIGÖL",
+      "Erdoğan": 43.1,
+      "Kılıçdaroğlu": 56.9,
+      "Katılım": 89.4
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "SARUHANLI",
+      "Erdoğan": 45.6,
+      "Kılıçdaroğlu": 54.4,
+      "Katılım": 90.2
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "ŞEHZADELER",
+      "Erdoğan": 48.1,
+      "Kılıçdaroğlu": 51.9,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "SELENDİ",
+      "Erdoğan": 67.4,
+      "Kılıçdaroğlu": 32.6,
+      "Katılım": 88
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "SOMA",
+      "Erdoğan": 55.6,
+      "Kılıçdaroğlu": 44.4,
+      "Katılım": 89.8
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "TURGUTLU",
+      "Erdoğan": 50.7,
+      "Kılıçdaroğlu": 49.3,
+      "Katılım": 86.8
+    },
+    {
+      "İl": "Manisa",
+      "İlçe": "YUNUSEMRE",
+      "Erdoğan": 46.1,
+      "Kılıçdaroğlu": 53.9,
+      "Katılım": 89
+    },
+    {
+      "İl": "Mardin",
+      "İlçe": "ARTUKLU",
+      "Erdoğan": 51.6,
+      "Kılıçdaroğlu": 48.4,
+      "Katılım": 83
+    },
+    {
+      "İl": "Mardin",
+      "İlçe": "DARGEÇİT",
+      "Erdoğan": 31.8,
+      "Kılıçdaroğlu": 68.2,
+      "Katılım": 72.5
+    },
+    {
+      "İl": "Mardin",
+      "İlçe": "DERİK",
+      "Erdoğan": 21.2,
+      "Kılıçdaroğlu": 78.8,
+      "Katılım": 76.6
+    },
+    {
+      "İl": "Mardin",
+      "İlçe": "KIZILTEPE",
+      "Erdoğan": 20.3,
+      "Kılıçdaroğlu": 79.7,
+      "Katılım": 81.2
+    },
+    {
+      "İl": "Mardin",
+      "İlçe": "MAZIDAĞI",
+      "Erdoğan": 24.5,
+      "Kılıçdaroğlu": 75.5,
+      "Katılım": 77
+    },
+    {
+      "İl": "Mardin",
+      "İlçe": "MİDYAT",
+      "Erdoğan": 56,
+      "Kılıçdaroğlu": 44,
+      "Katılım": 74
+    },
+    {
+      "İl": "Mardin",
+      "İlçe": "NUSAYBİN",
+      "Erdoğan": 16.3,
+      "Kılıçdaroğlu": 83.7,
+      "Katılım": 75.2
+    },
+    {
+      "İl": "Mardin",
+      "İlçe": "ÖMERLİ",
+      "Erdoğan": 57.6,
+      "Kılıçdaroğlu": 42.4,
+      "Katılım": 79.5
+    },
+    {
+      "İl": "Mardin",
+      "İlçe": "SAVUR",
+      "Erdoğan": 49.7,
+      "Kılıçdaroğlu": 50.3,
+      "Katılım": 73.4
+    },
+    {
+      "İl": "Mardin",
+      "İlçe": "YEŞİLLİ",
+      "Erdoğan": 76.6,
+      "Kılıçdaroğlu": 23.4,
+      "Katılım": 94
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "AKDENİZ",
+      "Erdoğan": 33.3,
+      "Kılıçdaroğlu": 66.7,
+      "Katılım": 86.2
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "ANAMUR",
+      "Erdoğan": 44.6,
+      "Kılıçdaroğlu": 55.4,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "AYDINCIK",
+      "Erdoğan": 53.4,
+      "Kılıçdaroğlu": 46.6,
+      "Katılım": 89.6
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "BOZYAZI",
+      "Erdoğan": 51.2,
+      "Kılıçdaroğlu": 48.8,
+      "Katılım": 89.9
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "ÇAMLIYAYLA",
+      "Erdoğan": 59.8,
+      "Kılıçdaroğlu": 40.2,
+      "Katılım": 88
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "ERDEMLİ",
+      "Erdoğan": 54.8,
+      "Kılıçdaroğlu": 45.2,
+      "Katılım": 88
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "GÜLNAR",
+      "Erdoğan": 55.9,
+      "Kılıçdaroğlu": 44.1,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "MEZİTLİ",
+      "Erdoğan": 31.3,
+      "Kılıçdaroğlu": 68.7,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "MUT",
+      "Erdoğan": 52.7,
+      "Kılıçdaroğlu": 47.3,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "SİLİFKE",
+      "Erdoğan": 41.7,
+      "Kılıçdaroğlu": 58.3,
+      "Katılım": 87.5
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "TARSUS",
+      "Erdoğan": 42.8,
+      "Kılıçdaroğlu": 57.2,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "TOROSLAR",
+      "Erdoğan": 43.3,
+      "Kılıçdaroğlu": 56.7,
+      "Katılım": 84.8
+    },
+    {
+      "İl": "Mersin",
+      "İlçe": "YENİŞEHİR",
+      "Erdoğan": 26,
+      "Kılıçdaroğlu": 74,
+      "Katılım": 86
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "BODRUM",
+      "Erdoğan": 21.4,
+      "Kılıçdaroğlu": 78.6,
+      "Katılım": 85.3
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "DALAMAN",
+      "Erdoğan": 38.6,
+      "Kılıçdaroğlu": 61.4,
+      "Katılım": 87.1
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "DATÇA",
+      "Erdoğan": 23.7,
+      "Kılıçdaroğlu": 76.3,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "FETHİYE",
+      "Erdoğan": 38.4,
+      "Kılıçdaroğlu": 61.6,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "KAVAKLIDERE",
+      "Erdoğan": 60.1,
+      "Kılıçdaroğlu": 39.9,
+      "Katılım": 91.8
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "KÖYCEĞİZ",
+      "Erdoğan": 42.5,
+      "Kılıçdaroğlu": 57.5,
+      "Katılım": 86.5
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "MARMARİS",
+      "Erdoğan": 28.6,
+      "Kılıçdaroğlu": 71.4,
+      "Katılım": 84.2
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "MENTEŞE",
+      "Erdoğan": 30.8,
+      "Kılıçdaroğlu": 69.2,
+      "Katılım": 89.1
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "MİLAS",
+      "Erdoğan": 31.9,
+      "Kılıçdaroğlu": 68.1,
+      "Katılım": 88
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "ORTACA",
+      "Erdoğan": 32.9,
+      "Kılıçdaroğlu": 67.1,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "SEYDİKEMER",
+      "Erdoğan": 58.4,
+      "Kılıçdaroğlu": 41.6,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "ULA",
+      "Erdoğan": 35.7,
+      "Kılıçdaroğlu": 64.3,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Muğla",
+      "İlçe": "YATAĞAN",
+      "Erdoğan": 38.6,
+      "Kılıçdaroğlu": 61.4,
+      "Katılım": 91
+    },
+    {
+      "İl": "Muş",
+      "İlçe": "BULANIK",
+      "Erdoğan": 20.8,
+      "Kılıçdaroğlu": 79.2,
+      "Katılım": 68.2
+    },
+    {
+      "İl": "Muş",
+      "İlçe": "HASKÖY",
+      "Erdoğan": 79.5,
+      "Kılıçdaroğlu": 20.5,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Muş",
+      "İlçe": "KORKUT",
+      "Erdoğan": 31.3,
+      "Kılıçdaroğlu": 68.7,
+      "Katılım": 71.7
+    },
+    {
+      "İl": "Muş",
+      "İlçe": "MALAZGİRT",
+      "Erdoğan": 22.4,
+      "Kılıçdaroğlu": 77.6,
+      "Katılım": 71.3
+    },
+    {
+      "İl": "Muş",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 53.7,
+      "Kılıçdaroğlu": 46.3,
+      "Katılım": 74.4
+    },
+    {
+      "İl": "Muş",
+      "İlçe": "VARTO",
+      "Erdoğan": 10.8,
+      "Kılıçdaroğlu": 89.2,
+      "Katılım": 74.3
+    },
+    {
+      "İl": "Nevşehir",
+      "İlçe": "ACIGÖL",
+      "Erdoğan": 89.3,
+      "Kılıçdaroğlu": 10.7,
+      "Katılım": 89.8
+    },
+    {
+      "İl": "Nevşehir",
+      "İlçe": "AVANOS",
+      "Erdoğan": 56,
+      "Kılıçdaroğlu": 44,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "Nevşehir",
+      "İlçe": "DERİNKUYU",
+      "Erdoğan": 68.4,
+      "Kılıçdaroğlu": 31.6,
+      "Katılım": 87.4
+    },
+    {
+      "İl": "Nevşehir",
+      "İlçe": "GÜLŞEHİR",
+      "Erdoğan": 71.2,
+      "Kılıçdaroğlu": 28.8,
+      "Katılım": 85.6
+    },
+    {
+      "İl": "Nevşehir",
+      "İlçe": "HACIBEKTAŞ",
+      "Erdoğan": 32.4,
+      "Kılıçdaroğlu": 67.6,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Nevşehir",
+      "İlçe": "KOZAKLI",
+      "Erdoğan": 58,
+      "Kılıçdaroğlu": 42,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "Nevşehir",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 70.3,
+      "Kılıçdaroğlu": 29.7,
+      "Katılım": 88.4
+    },
+    {
+      "İl": "Nevşehir",
+      "İlçe": "ÜRGÜP",
+      "Erdoğan": 60.7,
+      "Kılıçdaroğlu": 39.3,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Niğde",
+      "İlçe": "ALTUNHİSAR",
+      "Erdoğan": 79.4,
+      "Kılıçdaroğlu": 20.6,
+      "Katılım": 79.9
+    },
+    {
+      "İl": "Niğde",
+      "İlçe": "BOR",
+      "Erdoğan": 64,
+      "Kılıçdaroğlu": 36,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Niğde",
+      "İlçe": "ÇAMARDI",
+      "Erdoğan": 75.2,
+      "Kılıçdaroğlu": 24.8,
+      "Katılım": 81.3
+    },
+    {
+      "İl": "Niğde",
+      "İlçe": "ÇİFTLİK",
+      "Erdoğan": 61.5,
+      "Kılıçdaroğlu": 38.5,
+      "Katılım": 77.6
+    },
+    {
+      "İl": "Niğde",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 60.9,
+      "Kılıçdaroğlu": 39.1,
+      "Katılım": 85.5
+    },
+    {
+      "İl": "Niğde",
+      "İlçe": "ULUKIŞLA",
+      "Erdoğan": 52.5,
+      "Kılıçdaroğlu": 47.5,
+      "Katılım": 85.6
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "AKKUŞ",
+      "Erdoğan": 79.4,
+      "Kılıçdaroğlu": 20.6,
+      "Katılım": 79.6
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "ALTINORDU",
+      "Erdoğan": 53.1,
+      "Kılıçdaroğlu": 46.9,
+      "Katılım": 85.6
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "AYBASTI",
+      "Erdoğan": 77.7,
+      "Kılıçdaroğlu": 22.3,
+      "Katılım": 81.3
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "ÇAMAŞ",
+      "Erdoğan": 74.3,
+      "Kılıçdaroğlu": 25.7,
+      "Katılım": 83.9
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "ÇATALPINAR",
+      "Erdoğan": 88.1,
+      "Kılıçdaroğlu": 11.9,
+      "Katılım": 86.4
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "ÇAYBAŞI",
+      "Erdoğan": 84,
+      "Kılıçdaroğlu": 16,
+      "Katılım": 82.7
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "FATSA",
+      "Erdoğan": 63.2,
+      "Kılıçdaroğlu": 36.8,
+      "Katılım": 83.7
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "GÖLKÖY",
+      "Erdoğan": 66.3,
+      "Kılıçdaroğlu": 33.7,
+      "Katılım": 78.5
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "GÜLYALI",
+      "Erdoğan": 53.7,
+      "Kılıçdaroğlu": 46.3,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "GÜRGENTEPE",
+      "Erdoğan": 52.6,
+      "Kılıçdaroğlu": 47.4,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "İKİZCE",
+      "Erdoğan": 77.9,
+      "Kılıçdaroğlu": 22.1,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "KABADÜZ",
+      "Erdoğan": 73.7,
+      "Kılıçdaroğlu": 26.3,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "KABATAŞ",
+      "Erdoğan": 76.4,
+      "Kılıçdaroğlu": 23.6,
+      "Katılım": 83.9
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "KORGAN",
+      "Erdoğan": 84.2,
+      "Kılıçdaroğlu": 15.8,
+      "Katılım": 83
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "KUMRU",
+      "Erdoğan": 86.7,
+      "Kılıçdaroğlu": 13.3,
+      "Katılım": 82.7
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "MESUDİYE",
+      "Erdoğan": 70.4,
+      "Kılıçdaroğlu": 29.6,
+      "Katılım": 77.6
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "PERŞEMBE",
+      "Erdoğan": 54.3,
+      "Kılıçdaroğlu": 45.7,
+      "Katılım": 84.6
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "ULUBEY",
+      "Erdoğan": 65.5,
+      "Kılıçdaroğlu": 34.5,
+      "Katılım": 86.5
+    },
+    {
+      "İl": "Ordu",
+      "İlçe": "ÜNYE",
+      "Erdoğan": 72.6,
+      "Kılıçdaroğlu": 27.4,
+      "Katılım": 85.5
+    },
+    {
+      "İl": "Osmaniye",
+      "İlçe": "BAHÇE",
+      "Erdoğan": 76.8,
+      "Kılıçdaroğlu": 23.2,
+      "Katılım": 88.4
+    },
+    {
+      "İl": "Osmaniye",
+      "İlçe": "DÜZİÇİ",
+      "Erdoğan": 66.8,
+      "Kılıçdaroğlu": 33.2,
+      "Katılım": 84.9
+    },
+    {
+      "İl": "Osmaniye",
+      "İlçe": "HASANBEYLİ",
+      "Erdoğan": 68.8,
+      "Kılıçdaroğlu": 31.2,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Osmaniye",
+      "İlçe": "KADİRLİ",
+      "Erdoğan": 62.8,
+      "Kılıçdaroğlu": 37.2,
+      "Katılım": 84.6
+    },
+    {
+      "İl": "Osmaniye",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 67.2,
+      "Kılıçdaroğlu": 32.8,
+      "Katılım": 83.2
+    },
+    {
+      "İl": "Osmaniye",
+      "İlçe": "SUMBAS",
+      "Erdoğan": 65.2,
+      "Kılıçdaroğlu": 34.8,
+      "Katılım": 85.2
+    },
+    {
+      "İl": "Osmaniye",
+      "İlçe": "TOPRAKKALE",
+      "Erdoğan": 59.5,
+      "Kılıçdaroğlu": 40.5,
+      "Katılım": 91.5
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "ARDEŞEN",
+      "Erdoğan": 68.9,
+      "Kılıçdaroğlu": 31.1,
+      "Katılım": 86.1
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "ÇAMLIHEMŞİN",
+      "Erdoğan": 74.1,
+      "Kılıçdaroğlu": 25.9,
+      "Katılım": 85.5
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "ÇAYELİ",
+      "Erdoğan": 83.2,
+      "Kılıçdaroğlu": 16.8,
+      "Katılım": 88
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "DEREPAZARI",
+      "Erdoğan": 84.1,
+      "Kılıçdaroğlu": 15.9,
+      "Katılım": 88.8
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "FINDIKLI",
+      "Erdoğan": 51,
+      "Kılıçdaroğlu": 49,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "GÜNEYSU",
+      "Erdoğan": 87.7,
+      "Kılıçdaroğlu": 12.3,
+      "Katılım": 92.5
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "HEMŞİN",
+      "Erdoğan": 65.3,
+      "Kılıçdaroğlu": 34.7,
+      "Katılım": 82.9
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "İKİZDERE",
+      "Erdoğan": 88.3,
+      "Kılıçdaroğlu": 11.7,
+      "Katılım": 82.2
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "İYİDERE",
+      "Erdoğan": 86.1,
+      "Kılıçdaroğlu": 13.9,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "KALKANDERE",
+      "Erdoğan": 83.5,
+      "Kılıçdaroğlu": 16.5,
+      "Katılım": 90.1
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 77.6,
+      "Kılıçdaroğlu": 22.4,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Rize",
+      "İlçe": "PAZAR",
+      "Erdoğan": 64.7,
+      "Kılıçdaroğlu": 35.3,
+      "Katılım": 84.8
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "ADAPAZARI",
+      "Erdoğan": 63.3,
+      "Kılıçdaroğlu": 36.7,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "AKYAZI",
+      "Erdoğan": 81.6,
+      "Kılıçdaroğlu": 18.4,
+      "Katılım": 91.1
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "ARİFİYE",
+      "Erdoğan": 71.4,
+      "Kılıçdaroğlu": 28.6,
+      "Katılım": 89
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "ERENLER",
+      "Erdoğan": 73.1,
+      "Kılıçdaroğlu": 26.9,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "FERİZLİ",
+      "Erdoğan": 72.1,
+      "Kılıçdaroğlu": 27.9,
+      "Katılım": 92.4
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "GEYVE",
+      "Erdoğan": 72.2,
+      "Kılıçdaroğlu": 27.8,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "HENDEK",
+      "Erdoğan": 72.9,
+      "Kılıçdaroğlu": 27.1,
+      "Katılım": 89.6
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "KARAPÜRÇEK",
+      "Erdoğan": 80,
+      "Kılıçdaroğlu": 20,
+      "Katılım": 91
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "KARASU",
+      "Erdoğan": 67.9,
+      "Kılıçdaroğlu": 32.1,
+      "Katılım": 85.7
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "KAYNARCA",
+      "Erdoğan": 79.8,
+      "Kılıçdaroğlu": 20.2,
+      "Katılım": 91.4
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "KOCAALİ",
+      "Erdoğan": 72.2,
+      "Kılıçdaroğlu": 27.8,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "PAMUKOVA",
+      "Erdoğan": 72.1,
+      "Kılıçdaroğlu": 27.9,
+      "Katılım": 89.1
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "SAPANCA",
+      "Erdoğan": 63.3,
+      "Kılıçdaroğlu": 36.7,
+      "Katılım": 89.5
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "SERDİVAN",
+      "Erdoğan": 57.8,
+      "Kılıçdaroğlu": 42.2,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "SÖĞÜTLÜ",
+      "Erdoğan": 67,
+      "Kılıçdaroğlu": 33,
+      "Katılım": 89.9
+    },
+    {
+      "İl": "Sakarya",
+      "İlçe": "TARAKLI",
+      "Erdoğan": 80.8,
+      "Kılıçdaroğlu": 19.2,
+      "Katılım": 92.9
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "ALAÇAM",
+      "Erdoğan": 64.6,
+      "Kılıçdaroğlu": 35.4,
+      "Katılım": 86.3
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "ASARCIK",
+      "Erdoğan": 86.7,
+      "Kılıçdaroğlu": 13.3,
+      "Katılım": 82.5
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "ATAKUM",
+      "Erdoğan": 45,
+      "Kılıçdaroğlu": 55,
+      "Katılım": 86.9
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "AYVACIK",
+      "Erdoğan": 87.4,
+      "Kılıçdaroğlu": 12.6,
+      "Katılım": 84.2
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "BAFRA",
+      "Erdoğan": 68.1,
+      "Kılıçdaroğlu": 31.9,
+      "Katılım": 85.6
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "CANİK",
+      "Erdoğan": 73.6,
+      "Kılıçdaroğlu": 26.4,
+      "Katılım": 85.7
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "ÇARŞAMBA",
+      "Erdoğan": 77.1,
+      "Kılıçdaroğlu": 22.9,
+      "Katılım": 85.7
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "HAVZA",
+      "Erdoğan": 71.6,
+      "Kılıçdaroğlu": 28.4,
+      "Katılım": 88
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "İLKADIM",
+      "Erdoğan": 57.7,
+      "Kılıçdaroğlu": 42.3,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "KAVAK",
+      "Erdoğan": 72.6,
+      "Kılıçdaroğlu": 27.4,
+      "Katılım": 88.6
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "LADİK",
+      "Erdoğan": 71.7,
+      "Kılıçdaroğlu": 28.3,
+      "Katılım": 86.9
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "ONDOKUZ MAYIS",
+      "Erdoğan": 77.1,
+      "Kılıçdaroğlu": 22.9,
+      "Katılım": 86.5
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "SALIPAZARI",
+      "Erdoğan": 80,
+      "Kılıçdaroğlu": 20,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "TEKKEKÖY",
+      "Erdoğan": 67.6,
+      "Kılıçdaroğlu": 32.4,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "TERME",
+      "Erdoğan": 77.2,
+      "Kılıçdaroğlu": 22.8,
+      "Katılım": 87.1
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "VEZİRKÖPRÜ",
+      "Erdoğan": 80.8,
+      "Kılıçdaroğlu": 19.2,
+      "Katılım": 85.7
+    },
+    {
+      "İl": "Samsun",
+      "İlçe": "YAKAKENT",
+      "Erdoğan": 64.6,
+      "Kılıçdaroğlu": 35.4,
+      "Katılım": 89
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "AKÇAKALE",
+      "Erdoğan": 92.9,
+      "Kılıçdaroğlu": 7.1,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "BİRECİK",
+      "Erdoğan": 58,
+      "Kılıçdaroğlu": 42,
+      "Katılım": 73.9
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "BOZOVA",
+      "Erdoğan": 58.8,
+      "Kılıçdaroğlu": 41.2,
+      "Katılım": 73.5
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "CEYLANPINAR",
+      "Erdoğan": 53.1,
+      "Kılıçdaroğlu": 46.9,
+      "Katılım": 79.9
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "EYYÜBİYE",
+      "Erdoğan": 79.3,
+      "Kılıçdaroğlu": 20.7,
+      "Katılım": 75.6
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "HALFETİ",
+      "Erdoğan": 42.3,
+      "Kılıçdaroğlu": 57.7,
+      "Katılım": 71
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "HALİLİYE",
+      "Erdoğan": 70.7,
+      "Kılıçdaroğlu": 29.3,
+      "Katılım": 80.2
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "HARRAN",
+      "Erdoğan": 95.3,
+      "Kılıçdaroğlu": 4.7,
+      "Katılım": 89.9
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "HİLVAN",
+      "Erdoğan": 57.3,
+      "Kılıçdaroğlu": 42.7,
+      "Katılım": 76
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "KARAKÖPRÜ",
+      "Erdoğan": 62.2,
+      "Kılıçdaroğlu": 37.8,
+      "Katılım": 83.8
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "SİVEREK",
+      "Erdoğan": 53.7,
+      "Kılıçdaroğlu": 46.3,
+      "Katılım": 70
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "SURUÇ",
+      "Erdoğan": 29.2,
+      "Kılıçdaroğlu": 70.8,
+      "Katılım": 72.2
+    },
+    {
+      "İl": "Şanlıurfa",
+      "İlçe": "VİRANŞEHİR",
+      "Erdoğan": 49.8,
+      "Kılıçdaroğlu": 50.2,
+      "Katılım": 77.7
+    },
+    {
+      "İl": "Siirt",
+      "İlçe": "BAYKAN",
+      "Erdoğan": 50,
+      "Kılıçdaroğlu": 50,
+      "Katılım": 74.7
+    },
+    {
+      "İl": "Siirt",
+      "İlçe": "ERUH",
+      "Erdoğan": 35.9,
+      "Kılıçdaroğlu": 64.1,
+      "Katılım": 80.2
+    },
+    {
+      "İl": "Siirt",
+      "İlçe": "KURTALAN",
+      "Erdoğan": 31.5,
+      "Kılıçdaroğlu": 68.5,
+      "Katılım": 74.3
+    },
+    {
+      "İl": "Siirt",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 41.8,
+      "Kılıçdaroğlu": 58.2,
+      "Katılım": 80.2
+    },
+    {
+      "İl": "Siirt",
+      "İlçe": "PERVARİ",
+      "Erdoğan": 60.2,
+      "Kılıçdaroğlu": 39.8,
+      "Katılım": 80.3
+    },
+    {
+      "İl": "Siirt",
+      "İlçe": "ŞİRVAN",
+      "Erdoğan": 77,
+      "Kılıçdaroğlu": 23,
+      "Katılım": 77.8
+    },
+    {
+      "İl": "Siirt",
+      "İlçe": "TİLLO",
+      "Erdoğan": 82.9,
+      "Kılıçdaroğlu": 17.1,
+      "Katılım": 90.3
+    },
+    {
+      "İl": "Sinop",
+      "İlçe": "AYANCIK",
+      "Erdoğan": 62.6,
+      "Kılıçdaroğlu": 37.4,
+      "Katılım": 83.4
+    },
+    {
+      "İl": "Sinop",
+      "İlçe": "BOYABAT",
+      "Erdoğan": 72.3,
+      "Kılıçdaroğlu": 27.7,
+      "Katılım": 86
+    },
+    {
+      "İl": "Sinop",
+      "İlçe": "DİKMEN",
+      "Erdoğan": 80.2,
+      "Kılıçdaroğlu": 19.8,
+      "Katılım": 82
+    },
+    {
+      "İl": "Sinop",
+      "İlçe": "DURAĞAN",
+      "Erdoğan": 84.7,
+      "Kılıçdaroğlu": 15.3,
+      "Katılım": 86
+    },
+    {
+      "İl": "Sinop",
+      "İlçe": "ERFELEK",
+      "Erdoğan": 60.5,
+      "Kılıçdaroğlu": 39.5,
+      "Katılım": 84.5
+    },
+    {
+      "İl": "Sinop",
+      "İlçe": "GERZE",
+      "Erdoğan": 61.8,
+      "Kılıçdaroğlu": 38.2,
+      "Katılım": 85.6
+    },
+    {
+      "İl": "Sinop",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 41.6,
+      "Kılıçdaroğlu": 58.4,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Sinop",
+      "İlçe": "SARAYDÜZÜ",
+      "Erdoğan": 79.8,
+      "Kılıçdaroğlu": 20.2,
+      "Katılım": 86.8
+    },
+    {
+      "İl": "Sinop",
+      "İlçe": "TÜRKELİ",
+      "Erdoğan": 80.1,
+      "Kılıçdaroğlu": 19.9,
+      "Katılım": 81.9
+    },
+    {
+      "İl": "Şırnak",
+      "İlçe": "BEYTÜŞŞEBAP",
+      "Erdoğan": 34.7,
+      "Kılıçdaroğlu": 65.3,
+      "Katılım": 75.8
+    },
+    {
+      "İl": "Şırnak",
+      "İlçe": "CİZRE",
+      "Erdoğan": 16.3,
+      "Kılıçdaroğlu": 83.7,
+      "Katılım": 80.8
+    },
+    {
+      "İl": "Şırnak",
+      "İlçe": "GÜÇLÜKONAK",
+      "Erdoğan": 30.3,
+      "Kılıçdaroğlu": 69.7,
+      "Katılım": 78.1
+    },
+    {
+      "İl": "Şırnak",
+      "İlçe": "İDİL",
+      "Erdoğan": 25.3,
+      "Kılıçdaroğlu": 74.7,
+      "Katılım": 72
+    },
+    {
+      "İl": "Şırnak",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 34.9,
+      "Kılıçdaroğlu": 65.1,
+      "Katılım": 84.9
+    },
+    {
+      "İl": "Şırnak",
+      "İlçe": "SİLOPİ",
+      "Erdoğan": 19.7,
+      "Kılıçdaroğlu": 80.3,
+      "Katılım": 82.2
+    },
+    {
+      "İl": "Şırnak",
+      "İlçe": "ULUDERE",
+      "Erdoğan": 26.9,
+      "Kılıçdaroğlu": 73.1,
+      "Katılım": 72.9
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "AKINCILAR",
+      "Erdoğan": 78.2,
+      "Kılıçdaroğlu": 21.8,
+      "Katılım": 84.5
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "ALTINYAYLA",
+      "Erdoğan": 85.4,
+      "Kılıçdaroğlu": 14.6,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "DİVRİĞİ",
+      "Erdoğan": 29.7,
+      "Kılıçdaroğlu": 70.3,
+      "Katılım": 90.9
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "DOĞANŞAR",
+      "Erdoğan": 92.6,
+      "Kılıçdaroğlu": 7.4,
+      "Katılım": 86.8
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "GEMEREK",
+      "Erdoğan": 61.7,
+      "Kılıçdaroğlu": 38.3,
+      "Katılım": 82.5
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "GÖLOVA",
+      "Erdoğan": 84.3,
+      "Kılıçdaroğlu": 15.7,
+      "Katılım": 80.2
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "GÜRÜN",
+      "Erdoğan": 69.9,
+      "Kılıçdaroğlu": 30.1,
+      "Katılım": 83.2
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "HAFİK",
+      "Erdoğan": 61.2,
+      "Kılıçdaroğlu": 38.8,
+      "Katılım": 90.8
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "İMRANLI",
+      "Erdoğan": 35.8,
+      "Kılıçdaroğlu": 64.2,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "KANGAL",
+      "Erdoğan": 62.7,
+      "Kılıçdaroğlu": 37.3,
+      "Katılım": 85.6
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "KOYULHİSAR",
+      "Erdoğan": 77.2,
+      "Kılıçdaroğlu": 22.8,
+      "Katılım": 84.5
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 76.4,
+      "Kılıçdaroğlu": 23.6,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "ŞARKIŞLA",
+      "Erdoğan": 74,
+      "Kılıçdaroğlu": 26,
+      "Katılım": 84.1
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "SUŞEHRİ",
+      "Erdoğan": 83.6,
+      "Kılıçdaroğlu": 16.4,
+      "Katılım": 87.2
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "ULAŞ",
+      "Erdoğan": 76.2,
+      "Kılıçdaroğlu": 23.8,
+      "Katılım": 89.2
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "YILDIZELİ",
+      "Erdoğan": 79.4,
+      "Kılıçdaroğlu": 20.6,
+      "Katılım": 84.1
+    },
+    {
+      "İl": "Sivas",
+      "İlçe": "ZARA",
+      "Erdoğan": 62,
+      "Kılıçdaroğlu": 38,
+      "Katılım": 88.1
+    },
+    {
+      "İl": "Tekirdağ",
+      "İlçe": "ÇERKEZKÖY",
+      "Erdoğan": 49,
+      "Kılıçdaroğlu": 51,
+      "Katılım": 86.4
+    },
+    {
+      "İl": "Tekirdağ",
+      "İlçe": "ÇORLU",
+      "Erdoğan": 35.5,
+      "Kılıçdaroğlu": 64.5,
+      "Katılım": 87.1
+    },
+    {
+      "İl": "Tekirdağ",
+      "İlçe": "ERGENE",
+      "Erdoğan": 41.3,
+      "Kılıçdaroğlu": 58.7,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "Tekirdağ",
+      "İlçe": "HAYRABOLU",
+      "Erdoğan": 40.1,
+      "Kılıçdaroğlu": 59.9,
+      "Katılım": 88.8
+    },
+    {
+      "İl": "Tekirdağ",
+      "İlçe": "KAPAKLI",
+      "Erdoğan": 54,
+      "Kılıçdaroğlu": 46,
+      "Katılım": 87
+    },
+    {
+      "İl": "Tekirdağ",
+      "İlçe": "MALKARA",
+      "Erdoğan": 42.9,
+      "Kılıçdaroğlu": 57.1,
+      "Katılım": 88.4
+    },
+    {
+      "İl": "Tekirdağ",
+      "İlçe": "MARMARAEREĞLİSİ",
+      "Erdoğan": 36.5,
+      "Kılıçdaroğlu": 63.5,
+      "Katılım": 85.5
+    },
+    {
+      "İl": "Tekirdağ",
+      "İlçe": "MURATLI",
+      "Erdoğan": 33.3,
+      "Kılıçdaroğlu": 66.7,
+      "Katılım": 89
+    },
+    {
+      "İl": "Tekirdağ",
+      "İlçe": "SARAY",
+      "Erdoğan": 33,
+      "Kılıçdaroğlu": 67,
+      "Katılım": 89.7
+    },
+    {
+      "İl": "Tekirdağ",
+      "İlçe": "ŞARKÖY",
+      "Erdoğan": 35.8,
+      "Kılıçdaroğlu": 64.2,
+      "Katılım": 85.5
+    },
+    {
+      "İl": "Tekirdağ",
+      "İlçe": "SÜLEYMANPAŞA",
+      "Erdoğan": 36.1,
+      "Kılıçdaroğlu": 63.9,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "ALMUS",
+      "Erdoğan": 51.6,
+      "Kılıçdaroğlu": 48.4,
+      "Katılım": 88.1
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "ARTOVA",
+      "Erdoğan": 71.5,
+      "Kılıçdaroğlu": 28.5,
+      "Katılım": 92.7
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "BAŞÇİFTLİK",
+      "Erdoğan": 72.1,
+      "Kılıçdaroğlu": 27.9,
+      "Katılım": 78.2
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "ERBAA",
+      "Erdoğan": 70.7,
+      "Kılıçdaroğlu": 29.3,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 69,
+      "Kılıçdaroğlu": 31,
+      "Katılım": 90.2
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "NİKSAR",
+      "Erdoğan": 62.9,
+      "Kılıçdaroğlu": 37.1,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "PAZAR",
+      "Erdoğan": 81.1,
+      "Kılıçdaroğlu": 18.9,
+      "Katılım": 91.7
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "REŞADİYE",
+      "Erdoğan": 72.6,
+      "Kılıçdaroğlu": 27.4,
+      "Katılım": 83.8
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "SULUSARAY",
+      "Erdoğan": 86.6,
+      "Kılıçdaroğlu": 13.4,
+      "Katılım": 89.3
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "TURHAL",
+      "Erdoğan": 61.4,
+      "Kılıçdaroğlu": 38.6,
+      "Katılım": 88.9
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "YEŞİLYURT",
+      "Erdoğan": 79.8,
+      "Kılıçdaroğlu": 20.2,
+      "Katılım": 87.1
+    },
+    {
+      "İl": "Tokat",
+      "İlçe": "ZİLE",
+      "Erdoğan": 53,
+      "Kılıçdaroğlu": 47,
+      "Katılım": 89.4
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "AKÇAABAT",
+      "Erdoğan": 70.2,
+      "Kılıçdaroğlu": 29.8,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "ARAKLI",
+      "Erdoğan": 85,
+      "Kılıçdaroğlu": 15,
+      "Katılım": 82.3
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "ARSİN",
+      "Erdoğan": 82.3,
+      "Kılıçdaroğlu": 17.7,
+      "Katılım": 85.9
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "BEŞİKDÜZÜ",
+      "Erdoğan": 47.4,
+      "Kılıçdaroğlu": 52.6,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "ÇARŞIBAŞI",
+      "Erdoğan": 73.8,
+      "Kılıçdaroğlu": 26.2,
+      "Katılım": 87.5
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "ÇAYKARA",
+      "Erdoğan": 78.1,
+      "Kılıçdaroğlu": 21.9,
+      "Katılım": 84.9
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "DERNEKPAZARI",
+      "Erdoğan": 84.8,
+      "Kılıçdaroğlu": 15.2,
+      "Katılım": 87.5
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "DÜZKÖY",
+      "Erdoğan": 67.4,
+      "Kılıçdaroğlu": 32.6,
+      "Katılım": 84
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "HAYRAT",
+      "Erdoğan": 90.7,
+      "Kılıçdaroğlu": 9.3,
+      "Katılım": 89
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "KÖPRÜBAŞI",
+      "Erdoğan": 87,
+      "Kılıçdaroğlu": 13,
+      "Katılım": 82.7
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "MAÇKA",
+      "Erdoğan": 72.8,
+      "Kılıçdaroğlu": 27.2,
+      "Katılım": 86.4
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "OF",
+      "Erdoğan": 84.3,
+      "Kılıçdaroğlu": 15.7,
+      "Katılım": 87.9
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "ORTAHİSAR",
+      "Erdoğan": 61.2,
+      "Kılıçdaroğlu": 38.8,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "ŞALPAZARI",
+      "Erdoğan": 74.9,
+      "Kılıçdaroğlu": 25.1,
+      "Katılım": 89.8
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "SÜRMENE",
+      "Erdoğan": 76.9,
+      "Kılıçdaroğlu": 23.1,
+      "Katılım": 83.8
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "TONYA",
+      "Erdoğan": 63.2,
+      "Kılıçdaroğlu": 36.8,
+      "Katılım": 85.2
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "VAKFIKEBİR",
+      "Erdoğan": 71,
+      "Kılıçdaroğlu": 29,
+      "Katılım": 87.5
+    },
+    {
+      "İl": "Trabzon",
+      "İlçe": "YOMRA",
+      "Erdoğan": 69.9,
+      "Kılıçdaroğlu": 30.1,
+      "Katılım": 85.1
+    },
+    {
+      "İl": "Tunceli",
+      "İlçe": "ÇEMİŞGEZEK",
+      "Erdoğan": 52.9,
+      "Kılıçdaroğlu": 47.1,
+      "Katılım": 85.5
+    },
+    {
+      "İl": "Tunceli",
+      "İlçe": "HOZAT",
+      "Erdoğan": 13.4,
+      "Kılıçdaroğlu": 86.6,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Tunceli",
+      "İlçe": "MAZGİRT",
+      "Erdoğan": 13.5,
+      "Kılıçdaroğlu": 86.5,
+      "Katılım": 85.9
+    },
+    {
+      "İl": "Tunceli",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 12.4,
+      "Kılıçdaroğlu": 87.6,
+      "Katılım": 87.2
+    },
+    {
+      "İl": "Tunceli",
+      "İlçe": "NAZIMİYE",
+      "Erdoğan": 11.1,
+      "Kılıçdaroğlu": 88.9,
+      "Katılım": 91
+    },
+    {
+      "İl": "Tunceli",
+      "İlçe": "OVACIK",
+      "Erdoğan": 9.7,
+      "Kılıçdaroğlu": 90.3,
+      "Katılım": 87.6
+    },
+    {
+      "İl": "Tunceli",
+      "İlçe": "PERTEK",
+      "Erdoğan": 23.4,
+      "Kılıçdaroğlu": 76.6,
+      "Katılım": 88.2
+    },
+    {
+      "İl": "Tunceli",
+      "İlçe": "PÜLÜMÜR",
+      "Erdoğan": 11.4,
+      "Kılıçdaroğlu": 88.6,
+      "Katılım": 90
+    },
+    {
+      "İl": "Uşak",
+      "İlçe": "BANAZ",
+      "Erdoğan": 53.4,
+      "Kılıçdaroğlu": 46.6,
+      "Katılım": 86.7
+    },
+    {
+      "İl": "Uşak",
+      "İlçe": "EŞME",
+      "Erdoğan": 44.6,
+      "Kılıçdaroğlu": 55.4,
+      "Katılım": 86.6
+    },
+    {
+      "İl": "Uşak",
+      "İlçe": "KARAHALLI",
+      "Erdoğan": 53.8,
+      "Kılıçdaroğlu": 46.2,
+      "Katılım": 87.3
+    },
+    {
+      "İl": "Uşak",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 51.8,
+      "Kılıçdaroğlu": 48.2,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Uşak",
+      "İlçe": "SİVASLI",
+      "Erdoğan": 51.4,
+      "Kılıçdaroğlu": 48.6,
+      "Katılım": 88.3
+    },
+    {
+      "İl": "Uşak",
+      "İlçe": "ULUBEY",
+      "Erdoğan": 43.8,
+      "Kılıçdaroğlu": 56.2,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Van",
+      "İlçe": "BAHÇESARAY",
+      "Erdoğan": 60.4,
+      "Kılıçdaroğlu": 39.6,
+      "Katılım": 74.8
+    },
+    {
+      "İl": "Van",
+      "İlçe": "BAŞKALE",
+      "Erdoğan": 23,
+      "Kılıçdaroğlu": 77,
+      "Katılım": 70.3
+    },
+    {
+      "İl": "Van",
+      "İlçe": "ÇALDIRAN",
+      "Erdoğan": 30.1,
+      "Kılıçdaroğlu": 69.9,
+      "Katılım": 62
+    },
+    {
+      "İl": "Van",
+      "İlçe": "ÇATAK",
+      "Erdoğan": 38.4,
+      "Kılıçdaroğlu": 61.6,
+      "Katılım": 76.4
+    },
+    {
+      "İl": "Van",
+      "İlçe": "EDREMİT",
+      "Erdoğan": 36.8,
+      "Kılıçdaroğlu": 63.2,
+      "Katılım": 77.3
+    },
+    {
+      "İl": "Van",
+      "İlçe": "ERCİŞ",
+      "Erdoğan": 46.8,
+      "Kılıçdaroğlu": 53.2,
+      "Katılım": 65.2
+    },
+    {
+      "İl": "Van",
+      "İlçe": "GEVAŞ",
+      "Erdoğan": 53,
+      "Kılıçdaroğlu": 47,
+      "Katılım": 76.3
+    },
+    {
+      "İl": "Van",
+      "İlçe": "GÜRPINAR",
+      "Erdoğan": 46.6,
+      "Kılıçdaroğlu": 53.4,
+      "Katılım": 71.5
+    },
+    {
+      "İl": "Van",
+      "İlçe": "İPEKYOLU",
+      "Erdoğan": 38.5,
+      "Kılıçdaroğlu": 61.5,
+      "Katılım": 77.5
+    },
+    {
+      "İl": "Van",
+      "İlçe": "MURADİYE",
+      "Erdoğan": 35.5,
+      "Kılıçdaroğlu": 64.5,
+      "Katılım": 62.2
+    },
+    {
+      "İl": "Van",
+      "İlçe": "ÖZALP",
+      "Erdoğan": 19.6,
+      "Kılıçdaroğlu": 80.4,
+      "Katılım": 65.3
+    },
+    {
+      "İl": "Van",
+      "İlçe": "SARAY",
+      "Erdoğan": 28.3,
+      "Kılıçdaroğlu": 71.7,
+      "Katılım": 67.2
+    },
+    {
+      "İl": "Van",
+      "İlçe": "TUŞBA",
+      "Erdoğan": 40.4,
+      "Kılıçdaroğlu": 59.6,
+      "Katılım": 71.8
+    },
+    {
+      "İl": "Yalova",
+      "İlçe": "ALTINOVA",
+      "Erdoğan": 57.2,
+      "Kılıçdaroğlu": 42.8,
+      "Katılım": 87
+    },
+    {
+      "İl": "Yalova",
+      "İlçe": "ARMUTLU",
+      "Erdoğan": 59.7,
+      "Kılıçdaroğlu": 40.3,
+      "Katılım": 83.2
+    },
+    {
+      "İl": "Yalova",
+      "İlçe": "ÇİFTLİKKÖY",
+      "Erdoğan": 49.4,
+      "Kılıçdaroğlu": 50.6,
+      "Katılım": 84.7
+    },
+    {
+      "İl": "Yalova",
+      "İlçe": "ÇINARCIK",
+      "Erdoğan": 46.2,
+      "Kılıçdaroğlu": 53.8,
+      "Katılım": 82
+    },
+    {
+      "İl": "Yalova",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 49,
+      "Kılıçdaroğlu": 51,
+      "Katılım": 82.9
+    },
+    {
+      "İl": "Yalova",
+      "İlçe": "TERMAL",
+      "Erdoğan": 63.6,
+      "Kılıçdaroğlu": 36.4,
+      "Katılım": 86.5
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "AKDAĞMADENİ",
+      "Erdoğan": 81.2,
+      "Kılıçdaroğlu": 18.8,
+      "Katılım": 77.9
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "AYDINCIK",
+      "Erdoğan": 80.5,
+      "Kılıçdaroğlu": 19.5,
+      "Katılım": 89.7
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "BOĞAZLIYAN",
+      "Erdoğan": 63.3,
+      "Kılıçdaroğlu": 36.7,
+      "Katılım": 85.4
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "ÇANDIR",
+      "Erdoğan": 68.5,
+      "Kılıçdaroğlu": 31.5,
+      "Katılım": 80
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "ÇAYIRALAN",
+      "Erdoğan": 68.1,
+      "Kılıçdaroğlu": 31.9,
+      "Katılım": 72.3
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "ÇEKEREK",
+      "Erdoğan": 79.5,
+      "Kılıçdaroğlu": 20.5,
+      "Katılım": 88.8
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "KADIŞEHRİ",
+      "Erdoğan": 86.9,
+      "Kılıçdaroğlu": 13.1,
+      "Katılım": 87.8
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 73.8,
+      "Kılıçdaroğlu": 26.2,
+      "Katılım": 88.7
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "SARAYKENT",
+      "Erdoğan": 89.5,
+      "Kılıçdaroğlu": 10.5,
+      "Katılım": 78.3
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "SARIKAYA",
+      "Erdoğan": 83.6,
+      "Kılıçdaroğlu": 16.4,
+      "Katılım": 78.2
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "ŞEFAATLİ",
+      "Erdoğan": 69.1,
+      "Kılıçdaroğlu": 30.9,
+      "Katılım": 84.3
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "SORGUN",
+      "Erdoğan": 83,
+      "Kılıçdaroğlu": 17,
+      "Katılım": 85.8
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "YENİFAKILI",
+      "Erdoğan": 58.8,
+      "Kılıçdaroğlu": 41.2,
+      "Katılım": 87
+    },
+    {
+      "İl": "Yozgat",
+      "İlçe": "YERKÖY",
+      "Erdoğan": 70.4,
+      "Kılıçdaroğlu": 29.6,
+      "Katılım": 84.3
+    },
+    {
+      "İl": "Zonguldak",
+      "İlçe": "ALAPLI",
+      "Erdoğan": 65.1,
+      "Kılıçdaroğlu": 34.9,
+      "Katılım": 88.5
+    },
+    {
+      "İl": "Zonguldak",
+      "İlçe": "ÇAYCUMA",
+      "Erdoğan": 55.4,
+      "Kılıçdaroğlu": 44.6,
+      "Katılım": 87.1
+    },
+    {
+      "İl": "Zonguldak",
+      "İlçe": "DEVREK",
+      "Erdoğan": 64.2,
+      "Kılıçdaroğlu": 35.8,
+      "Katılım": 82.7
+    },
+    {
+      "İl": "Zonguldak",
+      "İlçe": "EREĞLİ",
+      "Erdoğan": 54.9,
+      "Kılıçdaroğlu": 45.1,
+      "Katılım": 87.7
+    },
+    {
+      "İl": "Zonguldak",
+      "İlçe": "GÖKÇEBEY",
+      "Erdoğan": 54.8,
+      "Kılıçdaroğlu": 45.2,
+      "Katılım": 84.7
+    },
+    {
+      "İl": "Zonguldak",
+      "İlçe": "KİLİMLİ",
+      "Erdoğan": 50.8,
+      "Kılıçdaroğlu": 49.2,
+      "Katılım": 85.3
+    },
+    {
+      "İl": "Zonguldak",
+      "İlçe": "KOZLU",
+      "Erdoğan": 54,
+      "Kılıçdaroğlu": 46,
+      "Katılım": 85.6
+    },
+    {
+      "İl": "Zonguldak",
+      "İlçe": "MERKEZ",
+      "Erdoğan": 47,
+      "Kılıçdaroğlu": 53,
+      "Katılım": 84.8
+    }
+  ]
+}
