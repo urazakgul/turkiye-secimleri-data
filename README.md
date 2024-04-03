@@ -1,3 +1,0 @@
-Veri Kaynakları:
-
-* Yeni Şafak
